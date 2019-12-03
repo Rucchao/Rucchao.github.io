@@ -11,7 +11,7 @@ Chao's current research topic focuses on performance evaluation and optimization
 
 - **Chao, Zhang**, Jiaheng Lu. "Parameter Curation and Data Generation for Benchmarking Multi-model Queries". In VLDB 2018@PhD Workshop.
 
-Lu, Jiaheng, Zhen Hua Liu, Pengfei Xu, and **Chao Zhang**. "UDBMS: road to unification for multi-model data management." In ER, 2018.
+- Lu, Jiaheng, Zhen Hua Liu, Pengfei Xu, and **Chao Zhang**. "UDBMS: road to unification for multi-model data management." In ER, 2018.
 
 #### Contact
 - chao.z.zhang@helsinki.fi

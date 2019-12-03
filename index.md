@@ -17,9 +17,3 @@ Chao's current research topic focuses on performance evaluation and optimization
 
 #### Contact
 - chao.z.zhang@helsinki.fi
-
-
-
-------------
-
-_Last update in November 2019_

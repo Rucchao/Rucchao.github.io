@@ -9,7 +9,7 @@ Chao's current research topic focuses on performance evaluation and optimization
 
 - **Chao, Zhang**, Jiaheng Lu, Pengfei Xu, and Yuxing Chen. "UniBench: A Benchmark for Multi-Model Database Management Systems" In TPCTC, 2018. [[link]](https://link.springer.com/chapter/10.1007/978-3-030-11404-6_2)
 
-- **Chao, Zhang**, Jiaheng Lu. "Parameter Curation and Data Generation for Benchmarking Multi-model Queries". In VLDB 2018@PhD Workshop.
+- **Chao, Zhang**, Jiaheng Lu. "Parameter Curation and Data Generation for Benchmarking Multi-model Queries". In VLDB 2018@PhD.
 
 - Lu, Jiaheng, Zhen Hua Liu, Pengfei Xu, and **Chao Zhang**. "UDBMS: road to unification for multi-model data management." In ER, 2018.
 

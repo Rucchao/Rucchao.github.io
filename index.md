@@ -15,5 +15,11 @@ Chao's current research topic focuses on performance evaluation and optimization
 
 - Lu, Jiaheng, Zhen Hua Liu, Pengfei Xu, and **Chao Zhang**. "UDBMS: road to unification for multi-model data management." In ER, 2018.
 
+#### News
+
+[2019.11.19]  Our journal paper 'Holistic Evaluation in Multi-Model Databases Benchmarking' has been accepted in Distributed and Parallel Databases (DPD). Cheers!
+
+[2019.09.12] We have released our first version of Unibench at Github, try it out if you are interested in multi-model benchmarking!
+
 #### Contact
 - chao.z.zhang@helsinki.fi

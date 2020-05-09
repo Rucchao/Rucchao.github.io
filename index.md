@@ -7,8 +7,7 @@ Chao's current research topic focuses on performance evaluation and optimization
 
 #### Publication 
 
-- **Chao, Zhang**, Jiaheng Lu. "Holistic Evaluation in Multi-Model Databases Benchmarking". In Distributed and Parallel Databases, 2019.
-[[Open access]](https://link.springer.com/article/10.1007/s10619-019-07279-6)
+- **Chao, Zhang**, Jiaheng Lu. "Selectivity Estimation for Relation-Tree Joins". In SSDBM, 2020. [Accepted]
 
 - **Chao, Zhang**, Jiaheng Lu, Pengfei Xu, and Yuxing Chen. "UniBench: A Benchmark for Multi-Model Database Management Systems" In TPCTC, 2018. [[Open access]](https://link.springer.com/chapter/10.1007/978-3-030-11404-6_2)
 
@@ -18,6 +17,8 @@ Chao's current research topic focuses on performance evaluation and optimization
 [[Open access]](https://helda.helsinki.fi//bitstream/handle/10138/307202/UDBMS.pdf?sequence=1)
 
 #### News
+
+[2020.5.9]  Our paper entitled 'Selectivity Estimation for Relation-Tree Joins' has been accepted in SSDBM 2020. Cheers!
 
 [2019.11.19]  Our journal paper 'Holistic Evaluation in Multi-Model Databases Benchmarking' has been accepted in Distributed and Parallel Databases (DPD). Cheers!
 

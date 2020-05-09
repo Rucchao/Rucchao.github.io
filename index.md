@@ -10,14 +10,14 @@ Chao's current research topic focuses on performance evaluation and optimization
 - **Chao, Zhang**, Jiaheng Lu. "Selectivity Estimation for Relation-Tree Joins". In SSDBM, 2020. [Accepted, long paper]
 
 - **Chao, Zhang**, Jiaheng Lu. "Holistic Evaluation in Multi-Model Databases Benchmarking". In Distributed and Parallel Databases, 2019.
-[[Open access]](https://link.springer.com/article/10.1007/s10619-019-07279-6), journal paper
+[[Open access]](https://link.springer.com/article/10.1007/s10619-019-07279-6), [Journal paper]
 
-- **Chao, Zhang**, Jiaheng Lu, Pengfei Xu, and Yuxing Chen. "UniBench: A Benchmark for Multi-Model Database Management Systems" In TPCTC, 2018. [[Open access]](https://link.springer.com/chapter/10.1007/978-3-030-11404-6_2), regular paper
+- **Chao, Zhang**, Jiaheng Lu, Pengfei Xu, and Yuxing Chen. "UniBench: A Benchmark for Multi-Model Database Management Systems" In TPCTC, 2018. [[Open access]](https://link.springer.com/chapter/10.1007/978-3-030-11404-6_2), [Regular paper]
 
-- **Chao, Zhang**, Jiaheng Lu. "Parameter Curation and Data Generation for Benchmarking Multi-model Queries". In VLDB 2018@PhD. [[Open access]](https://helda.helsinki.fi//bitstream/handle/10138/298439/VLDB2018.pdf?sequence=1), short paper
+- **Chao, Zhang**, Jiaheng Lu. "Parameter Curation and Data Generation for Benchmarking Multi-model Queries". In VLDB 2018@PhD. [[Open access]](https://helda.helsinki.fi//bitstream/handle/10138/298439/VLDB2018.pdf?sequence=1), [Short paper]
 
 - Lu, Jiaheng, Zhen Hua Liu, Pengfei Xu, and **Chao Zhang**. "UDBMS: road to unification for multi-model data management." In ER, 2018.
-[[Open access]](https://helda.helsinki.fi//bitstream/handle/10138/307202/UDBMS.pdf?sequence=1), vision paper
+[[Open access]](https://helda.helsinki.fi//bitstream/handle/10138/307202/UDBMS.pdf?sequence=1), [Vision paper]
 
 #### News
 

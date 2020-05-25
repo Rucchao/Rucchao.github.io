@@ -5,7 +5,7 @@ Chao Zhang is a Ph.D. candidate at the Department of Computer Science, Universit
 Chao's current research topic focuses on performance evaluation and optimization for multi-model databases. In addition, He has many other research interests in the field of database including automatic DBMS tuning, polystore system benchmarking, and optimization of big data systems such as Hadoop and Spark.
 
 
-#### Publication 
+#### Publication [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)
 
 - **Chao, Zhang**, Jiaheng Lu. "Selectivity Estimation for Relation-Tree Joins". In SSDBM, 2020. [Accepted, long paper]
 

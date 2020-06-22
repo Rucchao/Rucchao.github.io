@@ -7,7 +7,7 @@ Chao's current research topic focuses on performance evaluation and optimization
 
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)
 
-- **Chao, Zhang**, Jiaheng Lu. "Selectivity Estimation for Relation-Tree Joins". In SSDBM, 2020. [Accepted, long paper]
+- **Chao, Zhang**, Jiaheng Lu. "Selectivity Estimation for Relation-Tree Joins". In SSDBM, 2020. [Accepted, long paper][[PDF]](https://github.com/Rucchao/Rucchao.github.io/blob/master/ssdbm2020-RTJoin.pdf)
 
 - **Chao, Zhang**, Jiaheng Lu. "Holistic Evaluation in Multi-Model Databases Benchmarking". In Distributed and Parallel Databases, 2019.
 [[Open access]](https://link.springer.com/article/10.1007/s10619-019-07279-6), [Journal paper]

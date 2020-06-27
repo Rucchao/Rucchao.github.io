@@ -21,7 +21,7 @@ Chao's current research topic focuses on performance evaluation and optimization
 
 #### News
 
-[2020.6.27] I will be one of the presenters for CIKM 2020 tutorial entitled "Multi-Model Data Query Languages and Processing Paradigms".
+[2020.6.27] I will be one of the presenters for CIKM 2020 tutorial entitled "Multi-Model Data Query Languages and Processing Paradigms" [[More]](https://www.helsinki.fi/en/node/93817).
 
 [2020.5.9]  Our paper entitled 'Selectivity Estimation for Relation-Tree Joins' has been accepted in SSDBM 2020. Cheers!
 

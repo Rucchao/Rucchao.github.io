@@ -28,7 +28,7 @@ Chao's current research topic focuses on performance evaluation and optimization
 
 [2019.09.12] We have released our first version of Unibench at [Github](https://github.com/HY-UDBMS/UniBench), try it out if you are interested in multi-model benchmarking!
 
-#### Academia Services
+#### Academic Services
 
 External reviewer for the following conferences:
 

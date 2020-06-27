@@ -4,6 +4,8 @@ Chao Zhang is a Ph.D. candidate at the Department of Computer Science, Universit
 
 Chao's current research topic focuses on performance evaluation and optimization for multi-model databases. In addition, He has many other research interests in the field of database management systems including automatic DBMS tuning, polystore system benchmarking, and optimization of big data systems such as Hadoop and Spark.
 
+#### Contact
+- chao.z.zhang@helsinki.fi
 
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)
 
@@ -29,5 +31,11 @@ Chao's current research topic focuses on performance evaluation and optimization
 
 [2019.09.12] We have released our first version of Unibench at [Github](https://github.com/HY-UDBMS/UniBench), try it out if you are interested in multi-model benchmarking!
 
-#### Contact
-- chao.z.zhang@helsinki.fi
+#### Academia Services
+
+External reviewer for the following conferences:
+
+- VLDB Conference 2021
+- IEEE ICDE Conference (2017 2019)
+- Australia Database Conference (ADC 2019)
+- ER Conference 2018

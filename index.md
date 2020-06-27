@@ -21,6 +21,8 @@ Chao's current research topic focuses on performance evaluation and optimization
 
 #### News
 
+[2020.6.27] I will be one of the presenters for CIKM 2020 tutorial entitled "Multi-Model Data Query Languages and Processing Paradigms".
+
 [2020.5.9]  Our paper entitled 'Selectivity Estimation for Relation-Tree Joins' has been accepted in SSDBM 2020. Cheers!
 
 [2019.11.19]  Our journal paper 'Holistic Evaluation in Multi-Model Databases Benchmarking' has been accepted in Distributed and Parallel Databases (DPD). Cheers!

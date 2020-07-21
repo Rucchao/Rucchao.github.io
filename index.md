@@ -33,7 +33,7 @@ Chao's current research topic focuses on performance evaluation and optimization
 External reviewer for the following conferences:
 
 - VLDB Conference 2021
-- IEEE ICDE Conference (2017 2019)
+- IEEE ICDE Conference (2017 2019 2020)
 - Australia Database Conference (ADC 2019)
 - ER Conference 2018
 

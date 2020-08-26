@@ -4,6 +4,18 @@ Chao Zhang is a Ph.D. candidate at the Department of Computer Science, Universit
 
 Chao's current research topic focuses on performance evaluation and optimization for multi-model databases. In addition, He has many other research interests in the field of database management systems including automatic DBMS tuning, polystore system benchmarking, and optimization of big data systems such as Hadoop and Spark.
 
+#### News
+
+[2020.8.26] We will give a new tutorial for IEEE Big Data 2020! The title is "Big Data System Benchmarking: State of the Art, Current Practices, and Open Challenges".
+
+[2020.6.27] I will be one of the presenters for CIKM 2020 tutorial entitled "Multi-Model Data Query Languages and Processing Paradigms" [[More Details]](https://www.helsinki.fi/en/node/93817).
+
+[2020.5.9]  Our paper entitled 'Selectivity Estimation for Relation-Tree Joins' has been accepted in SSDBM 2020. Cheers!
+
+[2019.11.19]  Our journal paper 'Holistic Evaluation in Multi-Model Databases Benchmarking' has been accepted in Distributed and Parallel Databases (DPD). Cheers!
+
+[2019.09.12] We have released our first version of Unibench at [Github](https://github.com/HY-UDBMS/UniBench), try it out if you are interested in multi-model benchmarking!
+
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)
 
 - **Chao, Zhang**, Jiaheng Lu. "Selectivity Estimation for Relation-Tree Joins". In SSDBM, 2020. [Accepted, long paper][[PDF]](https://drive.google.com/file/d/1kPLyQOb9BgCKRQLTGzN5LAd-rcuKZ46T/view?usp=sharing)
@@ -18,17 +30,6 @@ Chao's current research topic focuses on performance evaluation and optimization
 - Lu, Jiaheng, Zhen Hua Liu, Pengfei Xu, and **Chao Zhang**. "UDBMS: road to unification for multi-model data management." In ER, 2018.
 [[Open access]](https://helda.helsinki.fi//bitstream/handle/10138/307202/UDBMS.pdf?sequence=1), [Vision paper]
 
-#### News
-
-[2020.8.26] We will give a new tutorial for IEEE Big Data 2020! The title is "Big Data System Benchmarking: State of the Art, Current Practices, and Open Challenges".
-
-[2020.6.27] I will be one of the presenters for CIKM 2020 tutorial entitled "Multi-Model Data Query Languages and Processing Paradigms" [[More Details]](https://www.helsinki.fi/en/node/93817).
-
-[2020.5.9]  Our paper entitled 'Selectivity Estimation for Relation-Tree Joins' has been accepted in SSDBM 2020. Cheers!
-
-[2019.11.19]  Our journal paper 'Holistic Evaluation in Multi-Model Databases Benchmarking' has been accepted in Distributed and Parallel Databases (DPD). Cheers!
-
-[2019.09.12] We have released our first version of Unibench at [Github](https://github.com/HY-UDBMS/UniBench), try it out if you are interested in multi-model benchmarking!
 
 #### Academic Services
 

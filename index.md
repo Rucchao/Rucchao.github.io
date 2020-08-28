@@ -11,7 +11,7 @@ Chao's current research topic focuses on performance evaluation and optimization
 
 [2020.6.27] We will give a new tutorial for CIKM 2020! The title is "Multi-Model Data Query Languages and Processing Paradigms" [[More Details]](https://www.helsinki.fi/en/node/93817).
 
-[2020.5.9]  Our paper entitled 'Selectivity Estimation for Relation-Tree Joins' has been accepted in SSDBM 2020. Cheers! [[PDF]](https://drive.google.com/file/d/1kPLyQOb9BgCKRQLTGzN5LAd-rcuKZ46T/view?usp=sharing)
+[2020.5.9]  Our paper entitled 'Selectivity Estimation for Relation-Tree Joins' has been accepted in SSDBM 2020. Cheers! [[Link]](https://dl.acm.org/doi/10.1145/3400903.3400921)
 
 [2019.11.19]  Our journal paper 'Holistic Evaluation in Multi-Model Databases Benchmarking' has been accepted in Distributed and Parallel Databases (DPD). Cheers! [[PDF]](https://link.springer.com/article/10.1007/s10619-019-07279-6)
 
@@ -19,7 +19,7 @@ Chao's current research topic focuses on performance evaluation and optimization
 
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)
 
-- **Chao, Zhang**, Jiaheng Lu. "Selectivity Estimation for Relation-Tree Joins". In SSDBM, 2020. [Accepted, long paper][[PDF]](https://drive.google.com/file/d/1kPLyQOb9BgCKRQLTGzN5LAd-rcuKZ46T/view?usp=sharing)
+- **Chao, Zhang**, Jiaheng Lu. "Selectivity Estimation for Relation-Tree Joins". In SSDBM, 2020. [Accepted, long paper] [[Link]](https://dl.acm.org/doi/10.1145/3400903.3400921)
 
 - **Chao, Zhang**, Jiaheng Lu. "Holistic Evaluation in Multi-Model Databases Benchmarking". In Distributed and Parallel Databases, 2019.
 [[Open access]](https://link.springer.com/article/10.1007/s10619-019-07279-6), [Journal paper]

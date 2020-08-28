@@ -15,7 +15,7 @@ Chao's current research topic focuses on performance evaluation and optimization
 
 [2019.11.19]  Our journal paper 'Holistic Evaluation in Multi-Model Databases Benchmarking' has been accepted in Distributed and Parallel Databases (DPD). Cheers! [[PDF]](https://link.springer.com/article/10.1007/s10619-019-07279-6)
 
-[2019.09.12] We have released our first version of Unibench at [Github](https://github.com/HY-UDBMS/UniBench), try it out if you are interested in multi-model benchmarking!
+[2019.09.12] We have released our first version of Unibench at [Github](https://github.com/HY-UDBMS/UniBench), try it out if you are interested in multi-model database benchmarking!
 
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)
 

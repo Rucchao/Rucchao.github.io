@@ -11,9 +11,9 @@ Chao's current research topic focuses on performance evaluation and optimization
 
 [2020.6.27] We will give a new tutorial for CIKM 2020! The title is "Multi-Model Data Query Languages and Processing Paradigms" [[More Details]](https://www.helsinki.fi/en/node/93817).
 
-[2020.5.9]  Our paper entitled 'Selectivity Estimation for Relation-Tree Joins' has been accepted in SSDBM 2020. Cheers!
+[2020.5.9]  Our paper entitled 'Selectivity Estimation for Relation-Tree Joins' has been accepted in SSDBM 2020. Cheers! [[PDF]](https://drive.google.com/file/d/1kPLyQOb9BgCKRQLTGzN5LAd-rcuKZ46T/view?usp=sharing)
 
-[2019.11.19]  Our journal paper 'Holistic Evaluation in Multi-Model Databases Benchmarking' has been accepted in Distributed and Parallel Databases (DPD). Cheers!
+[2019.11.19]  Our journal paper 'Holistic Evaluation in Multi-Model Databases Benchmarking' has been accepted in Distributed and Parallel Databases (DPD). Cheers! [[PDF]](https://link.springer.com/article/10.1007/s10619-019-07279-6)
 
 [2019.09.12] We have released our first version of Unibench at [Github](https://github.com/HY-UDBMS/UniBench), try it out if you are interested in multi-model benchmarking!
 

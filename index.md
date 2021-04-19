@@ -6,6 +6,8 @@ Chao's current research topic focuses on performance evaluation and optimization
 
 #### News
 
+[2021.4.19] I have successfully defended my PhD thesis. [[More Details]](https://www2.helsinki.fi/en/news/education-news/phd-candidate-chao-zhang-successfully-defended-his-thesis).
+
 [2021.1.7] We will give a new tutorial at DASFAA 2021! The title is "Multi-Model Data Query Languages and Processing Paradigms". [[More Details]](https://www.helsinki.fi/en/news/data-science-news/new-tutorial-at-dasfaa-2021).
 
 [2020.8.26] We will give a new tutorial for IEEE Big Data 2020! The title is "Big Data System Benchmarking: State of the Art, Current Practices, and Open Challenges". [[More Details]](https://www.helsinki.fi/en/researchgroups/unified-database-management-systems-udbms/ieee-big-data-2020-tutorial).

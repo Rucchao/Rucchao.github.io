@@ -22,6 +22,8 @@ Chao's current research topic focuses on performance evaluation and optimization
 
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)
 
+- **Chao, Zhang** et al. "Automatic View Selection in Graph Databases". In SSDBM, 2021.
+
 - **Chao, Zhang**, Jiaheng Lu. "Selectivity Estimation for Relation-Tree Joins". In SSDBM, 2020. [Research long paper] [[Link]](https://dl.acm.org/doi/10.1145/3400903.3400921)
 
 - **Chao, Zhang**, Jiaheng Lu. "Holistic Evaluation in Multi-Model Databases Benchmarking". In Distributed and Parallel Databases, 2019.

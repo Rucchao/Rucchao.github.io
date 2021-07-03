@@ -20,6 +20,10 @@ My current research topic focuses on performance evaluation and optimization for
 
 **[2019.09.12]** We have released our first version of UniBench at [Github](https://github.com/HY-UDBMS/UniBench), try it out if you are interested in multi-model database benchmarking!
 
+#### Thesis
+
+Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Databases", Ph.D. Thesis, May, 2021.[[Link]](http://urn.fi/URN:ISBN:978-951-51-7198-6)
+
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)
 
 - **Chao, Zhang**, Jiaheng Lu, Qingsong Guo, Xinyong Zhang, Xiaochun Han, Minqi Zhou. "Automatic View Selection in Graph Databases". In SSDBM, 2021.[[Extended Version]](https://arxiv.org/abs/2105.09160) 

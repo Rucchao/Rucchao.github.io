@@ -1,8 +1,8 @@
 #### Short bio
 
-Chao Zhang is a Ph.D. candidate at the Department of Computer Science, University of Helsinki. His supervisor is [Jiaheng Lu](https://www.cs.helsinki.fi/u/jilu/), the leader of [UDBMS group](https://www.helsinki.fi/en/researchgroups/unified-database-management-systems-udbms). Prior to joining UH, Chao spent one year at Renmin University of China (RUC) for Ph.D. studies.
+I am a post-doctoral researcher working with Prof. [Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) at Database group at Tsinghua University since July 2021. I was awareded the Ph.D. degree in Computer Science, at University of Helsinki on June 2nd, 2021. I am very honored to have Prof. [Jiaheng Lu](https://www.cs.helsinki.fi/u/jilu/) as my Ph.D. supervisor. He is the leader of [UDBMS group](https://www.helsinki.fi/en/researchgroups/unified-database-management-systems-udbms). Prior to joining UH, I have spent a wonderful year at Renmin University of China (RUC) for Ph.D. studies.
 
-Chao's current research topic focuses on performance evaluation and optimization for multi-model databases. In addition, He has many other research interests in the field of database management systems including automatic DBMS tuning, polystore system benchmarking, and optimization of big data systems such as Hadoop and Spark.
+My current research topic focuses on performance evaluation and optimization for cutting-edge data systems including AI-enable DBMSs, multi-model databases, and big data systems such as Hadoop and Spark.
 
 #### News
 

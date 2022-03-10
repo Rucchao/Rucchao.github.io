@@ -47,6 +47,10 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 #### Academic Services
 
+PC member for the following conferences:
+
+- IEEE ICDE 2023
+
 External reviewer for the following conferences:
 
 - VLDB Conference 2021

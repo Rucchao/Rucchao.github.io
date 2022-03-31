@@ -31,7 +31,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[[DBLP]](https://dblp.uni-trier.de/pid/94/3019-34.html)
 
 - Guoliang Li, **Chao, Zhang**. "HTAP Databases: What is New and What is Next". In SIGMOD, 2022.
-- 
+
 - **Chao, Zhang**, Jiaheng Lu, Qingsong Guo, Xinyong Zhang, Xiaochun Han, Minqi Zhou. "Automatic View Selection in Graph Databases". In SSDBM, 2021.[[Extended Version]](https://arxiv.org/abs/2105.09160) 
 
 - **Chao, Zhang**, Jiaheng Lu. "Selectivity Estimation for Relation-Tree Joins". In SSDBM, 2020. [Research long paper] [[Link]](https://dl.acm.org/doi/10.1145/3400903.3400921)

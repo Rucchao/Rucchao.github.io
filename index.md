@@ -2,13 +2,13 @@
 
 I am a post-doctoral researcher working with Prof. [Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) at Database group, Tsinghua University since July 2021. 
 
-I was awarded the Ph.D. degree in Computer Science, at University of Helsinki, Finland at June, 2021. I am very honored to have Prof. [Jiaheng Lu](https://www.cs.helsinki.fi/u/jilu/) as my Ph.D. supervisor. He is the leader of [UDBMS group](https://www.helsinki.fi/en/researchgroups/unified-database-management-systems-udbms). Prior to joining UH, I have spent a wonderful year at School of Information, Renmin University of China (RUC) for Ph.D. studies.
+I was awarded the Ph.D. degree in Computer Science, at University of Helsinki, Finland at June, 2021. I am very honored to have Prof. [Jiaheng Lu](https://www.cs.helsinki.fi/u/jilu/) as my Ph.D. supervisor. He is the leader of [UDBMS group](https://www.helsinki.fi/en/researchgroups/unified-database-management-systems-udbms). Prior to joining UH, I spent a wonderful year at School of Information, Renmin University of China (RUC) for Ph.D. studies.
 
 My current research topic focuses on performance benchmarking and optimization for cutting-edge data systems including AI-enabled DBMSs, multi-model databases, and big data systems such as Hadoop and Spark.
 
 #### News
 
-**[2022.4.18]** I am honored to be invited as a Program Committee member of ICDE'23.
+**[2022.4.18]** I am honored to be invited as a Program Committee member of ICDE 2023!
 
 **[2022.3.10]** We will give a new tutorial at SIGMOD 2022! The title is "HTAP Databases: What is New and What is Next". See you at SIGMOD 2022!
 

@@ -57,7 +57,7 @@ PC member for the following conferences:
 
 Reviewer for the following journals:
 
-- JCST
+- Journal of Computer Science and Technology (JCST)
 
 External reviewer for the following conferences:
 

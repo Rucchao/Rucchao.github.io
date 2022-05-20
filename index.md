@@ -55,6 +55,10 @@ PC member for the following conferences:
 
 - IEEE ICDE 2023
 
+Reviewer for the following journals:
+
+- JCST
+
 External reviewer for the following conferences:
 
 - VLDB Conference 2021

@@ -8,7 +8,7 @@ My current research topic focuses on performance benchmarking and optimization f
 
 #### News
 
-**[2022.4.18]** I am honored to be invited as a Program Committee member of ICDE 2023!
+**[2022.4.18]** I am honored to be invited as a Program Committee member of ICDE 2023! [[Website]](https://icde2023.ics.uci.edu/research-program-committee/)
 
 **[2022.3.10]** We will give a new tutorial at SIGMOD 2022! The title is "HTAP Databases: What is New and What is Next". See you at SIGMOD 2022!
 

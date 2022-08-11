@@ -1,4 +1,4 @@
-#### Short bio
+#### Short bio 【中文版】
 
 I am a post-doctoral researcher working with Prof. [Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) at Database group, Tsinghua University since July 2021. 
 

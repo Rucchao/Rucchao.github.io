@@ -1,4 +1,4 @@
-#### Short bio 【中文版】
+#### Short bio [[中文版](https://github.com/Rucchao/Rucchao.github.io/blob/master/Chinese.md)]
 
 I am a post-doctoral researcher working with Prof. [Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) at Database group, Tsinghua University since July 2021. 
 

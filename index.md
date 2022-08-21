@@ -41,10 +41,6 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 - **Chao, Zhang**, Jiaheng Lu. "Parameter Curation and Data Generation for Benchmarking Multi-model Queries". In VLDB 2018@PhD. [[Open access]](https://helda.helsinki.fi//bitstream/handle/10138/298439/VLDB2018.pdf?sequence=1), [Short paper]
 
-- Lu, Jiaheng, Zhen Hua Liu, Pengfei Xu, and **Chao Zhang**. "UDBMS: road to unification for multi-model data management." In ER, 2018.
-[[Open access]](https://helda.helsinki.fi//bitstream/handle/10138/307202/UDBMS.pdf?sequence=1), [Vision paper]
-
-
 #### Academic Services
 
 PC member for the following conferences:

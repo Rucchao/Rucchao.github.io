@@ -5,3 +5,7 @@
 **[2019.11.19]**  Our journal paper 'Holistic Evaluation in Multi-Model Databases Benchmarking' has been accepted in Distributed and Parallel Databases (DAPD). Cheers! [[PDF]](https://link.springer.com/article/10.1007/s10619-019-07279-6)
 
 **[2019.09.12]** We have released our first version of UniBench at [Github](https://github.com/HY-UDBMS/UniBench), try it out if you are interested in multi-model database benchmarking!
+
+- Lu, Jiaheng, Zhen Hua Liu, Pengfei Xu, and **Chao Zhang**. "UDBMS: road to unification for multi-model data management." In ER, 2018.
+[[Open access]](https://helda.helsinki.fi//bitstream/handle/10138/307202/UDBMS.pdf?sequence=1), [Vision paper]
+

@@ -8,6 +8,8 @@ My current research topic focuses on performance benchmarking and optimization f
 
 #### News
 
+**[2022.8.21]** e will give a new tutorial at VLDB 2022! The title is "Cloud Databases: New Techniques, Challenges, and Opportunities". See you at VLDB 2022! [[Website]](https://vldb.org/2022/?program-schedule-tutorials))
+
 **[2022.4.18]** I am honored to be invited as a Program Committee member of ICDE 2023! [[Website]](https://icde2023.ics.uci.edu/research-program-committee/)
 
 **[2022.3.10]** We will give a new tutorial at SIGMOD 2022! The title is "HTAP Databases: What is New and What is Next". See you at SIGMOD 2022!
@@ -33,6 +35,8 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[[DBLP]](https://dblp.uni-trier.de/pid/94/3019-34.html)
 
 - Guoliang Li, **Chao, Zhang**. "HTAP Databases: What is New and What is Next". In SIGMOD, 2022.  [[PDF]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-tutorial-paper.pdf)  [[Slides]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-htap-slides.pdf)
+
+- Guoliang Li, Haowen Dong, **Chao, Zhang**. "Cloud Databases: New Techniques, Challenges, and Opportunities". In VLDB, 2022. 
 
 - **Chao, Zhang**, Jiaheng Lu, Qingsong Guo, Xinyong Zhang, Xiaochun Han, Minqi Zhou. "Automatic View Selection in Graph Databases". In SSDBM, 2021.[[Extended Version]](https://arxiv.org/abs/2105.09160) 
 

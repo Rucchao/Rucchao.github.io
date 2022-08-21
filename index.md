@@ -8,7 +8,7 @@ My current research topic focuses on performance benchmarking and optimization f
 
 #### News
 
-**[2022.8.21]** e will give a new tutorial at VLDB 2022! The title is "Cloud Databases: New Techniques, Challenges, and Opportunities". See you at VLDB 2022! [[Website]](https://vldb.org/2022/?program-schedule-tutorials))
+**[2022.8.21]** We will give a new tutorial at VLDB 2022! The title is "Cloud Databases: New Techniques, Challenges, and Opportunities". See you at VLDB 2022! [[Website]](https://vldb.org/2022/?program-schedule-tutorials))
 
 **[2022.4.18]** I am honored to be invited as a Program Committee member of ICDE 2023! [[Website]](https://icde2023.ics.uci.edu/research-program-committee/)
 

@@ -30,9 +30,9 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 - Guoliang Li, Haowen Dong, **Chao, Zhang**. "Cloud Databases: New Techniques, Challenges, and Opportunities". In VLDB, 2022.
 
-- **Chao, Zhang**, Jiaheng Lu, Qingsong Guo, Xinyong Zhang, Xiaochun Han, Minqi Zhou. "Automatic View Selection in Graph Databases". In SSDBM, 2021.[[Extended Version]](https://arxiv.org/abs/2105.09160)[[ERA Rank: A]](http://direction.bordeaux.inria.fr/~roussel/rankings/era/index.cgi?q=SSDBM))
+- **Chao, Zhang**, Jiaheng Lu, Qingsong Guo, Xinyong Zhang, Xiaochun Han, Minqi Zhou. "Automatic View Selection in Graph Databases". In SSDBM, 2021.[[Extended Version]](https://arxiv.org/abs/2105.09160)[[ERA Rank: A]](http://direction.bordeaux.inria.fr/~roussel/rankings/era/index.cgi?q=SSDBM)
 
-- **Chao, Zhang**, Jiaheng Lu. "Selectivity Estimation for Relation-Tree Joins". In SSDBM, 2020. [Research long paper] [[Link]](https://dl.acm.org/doi/10.1145/3400903.3400921) [[ERA Rank: A]](http://direction.bordeaux.inria.fr/~roussel/rankings/era/index.cgi?q=SSDBM))
+- **Chao, Zhang**, Jiaheng Lu. "Selectivity Estimation for Relation-Tree Joins". In SSDBM, 2020. [Research long paper] [[Link]](https://dl.acm.org/doi/10.1145/3400903.3400921) [[ERA Rank: A]](http://direction.bordeaux.inria.fr/~roussel/rankings/era/index.cgi?q=SSDBM)
 
 - **Chao, Zhang**, Jiaheng Lu. "Holistic Evaluation in Multi-Model Databases Benchmarking". In Distributed and Parallel Databases, 2019.
 [[Open access]](https://link.springer.com/article/10.1007/s10619-019-07279-6), [Journal paper]

@@ -12,7 +12,7 @@ My current research topic focuses on performance benchmarking and optimization f
 
 **[2022.4.18]** I am honored to be invited as a Program Committee member of ICDE 2023! [[Website]](https://icde2023.ics.uci.edu/research-program-committee/)
 
-**[2022.3.10]** We will give a new tutorial at SIGMOD 2022! The title is "HTAP Databases: What is New and What is Next". See you at SIGMOD 2022! [[Website]]([https://vldb.org/2022/?program-schedule-tutorials](https://2022.sigmod.org/sigmod_tutorials.shtml))
+**[2022.3.10]** We will give a new tutorial at SIGMOD 2022! The title is "HTAP Databases: What is New and What is Next". See you at SIGMOD 2022! [[Website]](https://2022.sigmod.org/sigmod_tutorials.shtml)
 
 **[2021.4.19]** I have successfully defended my PhD thesis! Thank you all who helped me complete the dissertation! [[More Details]](https://www2.helsinki.fi/en/news/education-news/phd-candidate-chao-zhang-successfully-defended-his-thesis).
 

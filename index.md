@@ -51,6 +51,8 @@ PC member for the following conferences:
 
 - IEEE ICDE 2023
 
+- DASFAA 2023
+
 Reviewer for the following journals:
 
 - Journal of Computer Science and Technology (JCST)

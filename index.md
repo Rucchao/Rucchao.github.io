@@ -55,6 +55,8 @@ PC member for the following conferences:
 
 Reviewer for the following journals:
 
+- IEEE Transactions on Knowledge and Data Engineering (TKDE)
+
 - Journal of Computer Science and Technology (JCST)
 
 External reviewer for the following conferences:

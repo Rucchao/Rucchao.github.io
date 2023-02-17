@@ -8,6 +8,8 @@ My current research topic focuses on performance benchmarking and optimization f
 
 #### News
 
+**[2023.2.17]** One research paper got accepted at ICDE 2023! Cheers!
+
 **[2022.11.09]** I am honored to be invited as a Program Committee member of SIGMOD 2024! [[Website]](https://2024.sigmod.org/index.shtml))
 
 **[2022.8.21]** We will give a new tutorial at VLDB 2022! The title is "Cloud Databases: New Techniques, Challenges, and Opportunities". See you at VLDB 2022! [[Website]](https://vldb.org/2022/?program-schedule-tutorials)
@@ -27,6 +29,8 @@ My current research topic focuses on performance benchmarking and optimization f
 Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Databases", Ph.D. Thesis, May, 2021.[[Link]](http://urn.fi/URN:ISBN:978-951-51-7198-6)
 
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[[DBLP]](https://dblp.uni-trier.de/pid/94/3019-34.html)
+
+- Jintao Zhang, **Chao Zhang**., Guoliang Li, Chengliang Chai. "AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation". In ICDE, 2023.
 
 - Guoliang Li, **Chao Zhang**. "HTAP Databases: What is New and What is Next". In SIGMOD, 2022.  [[PDF]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-tutorial-paper.pdf)  [[Slides]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-htap-slides.pdf)
 

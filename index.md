@@ -8,7 +8,7 @@ My current research topic focuses on performance benchmarking and optimization f
 
 #### News
 
-**[2023.2.17]** One research paper got accepted at ICDE 2023! Cheers!
+**[2023.2.17]** One research paper about learned cardinality estimation got accepted at ICDE 2023! Cheers!
 
 **[2022.11.09]** I am honored to be invited as a Program Committee member of SIGMOD 2024! [[Website]](https://2024.sigmod.org/index.shtml))
 

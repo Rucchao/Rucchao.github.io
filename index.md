@@ -8,9 +8,11 @@ My current research topic focuses on performance benchmarking and optimization f
 
 #### News
 
+**[2023.3.6]** I am honored to be invited as a Program Committee member of VLDB 2023 Tutorial Track! [[Website]](https://vldb.org/2023/?call-for-tutorials)
+
 **[2023.2.17]** One research paper about learned cardinality estimation got accepted at ICDE 2023! Cheers!
 
-**[2022.11.09]** I am honored to be invited as a Program Committee member of SIGMOD 2024! [[Website]](https://2024.sigmod.org/index.shtml))
+**[2022.11.9]** I am honored to be invited as a Program Committee member of SIGMOD 2024! [[Website]](https://2024.sigmod.org/index.shtml)
 
 **[2022.8.21]** We will give a new tutorial at VLDB 2022! The title is "Cloud Databases: New Techniques, Challenges, and Opportunities". See you at VLDB 2022! [[Website]](https://vldb.org/2022/?program-schedule-tutorials)
 

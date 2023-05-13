@@ -12,7 +12,7 @@ My current research topic focuses on performance benchmarking and optimization f
 
 **[2023.3.6]** I am honored to be invited as a Program Committee member of VLDB 2023 Tutorial Track! [[Website]](https://vldb.org/2023/?call-for-tutorials)
 
-**[2023.2.17]** One research paper about learned cardinality estimation got accepted at ICDE 2023! Cheers!
+**[2023.2.17]** One research paper about learned cardinality estimation got accepted at ICDE 2023! Cheers![[PDF]](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf)
 
 **[2022.11.9]** I am honored to be invited as a Program Committee member of SIGMOD 2024! [[Website]](https://2024.sigmod.org/index.shtml)
 

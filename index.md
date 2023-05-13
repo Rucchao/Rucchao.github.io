@@ -12,7 +12,7 @@ My current research topic focuses on performance benchmarking and optimization f
 
 **[2023.3.6]** I am honored to be invited as a Program Committee member of VLDB 2023 Tutorial Track! [[Website]](https://vldb.org/2023/?call-for-tutorials)
 
-**[2023.2.17]** One research paper about learned cardinality estimation got accepted at ICDE 2023! Cheers![[PDF]](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf)
+**[2023.2.17]** One research paper about learned cardinality estimation got accepted at ICDE 2023! Cheers!
 
 **[2022.11.9]** I am honored to be invited as a Program Committee member of SIGMOD 2024! [[Website]](https://2024.sigmod.org/index.shtml)
 
@@ -28,7 +28,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[[DBLP]](https://dblp.uni-trier.de/pid/94/3019-34.html)
 
-- Jintao Zhang, **Chao Zhang**., Guoliang Li, Chengliang Chai. "AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation". In ICDE, 2023.
+- Jintao Zhang, **Chao Zhang**., Guoliang Li, Chengliang Chai. "AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation". In ICDE, 2023. [[PDF]](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf)
 
 - Guoliang Li, **Chao Zhang**. "HTAP Databases: What is New and What is Next". In SIGMOD, 2022.  [[PDF]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-tutorial-paper.pdf)  [[Slides]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-htap-slides.pdf)
 

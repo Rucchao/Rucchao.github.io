@@ -59,6 +59,8 @@ PC member for the following conferences:
 
 - DASFAA 2023
 
+- ADMA 2023
+
 Reviewer for the following journals:
 
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)

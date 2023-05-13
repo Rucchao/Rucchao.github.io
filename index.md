@@ -28,7 +28,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[[DBLP]](https://dblp.uni-trier.de/pid/94/3019-34.html)
 
-- Jintao Zhang, **Chao Zhang**., Guoliang Li, Chengliang Chai. "AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation". In ICDE, 2023. [[PDF]](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf)
+- Jintao Zhang, **Chao Zhang***, Guoliang Li, Chengliang Chai. "AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation". In ICDE, 2023. [[PDF]](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf)
 
 - Guoliang Li, **Chao Zhang**. "HTAP Databases: What is New and What is Next". In SIGMOD, 2022.  [[PDF]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-tutorial-paper.pdf)  [[Slides]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-htap-slides.pdf)
 

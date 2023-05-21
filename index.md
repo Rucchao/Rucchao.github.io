@@ -51,6 +51,8 @@ PC member for the following conferences:
 
 - ACM SIGMOD 2024
 
+- VLDB 2023 (Tutorial)
+
 - IEEE ICDE 2023
 
 - DASFAA 2023

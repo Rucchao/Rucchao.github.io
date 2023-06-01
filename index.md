@@ -30,7 +30,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 - Jintao Zhang, **Chao Zhang***, Guoliang Li, Chengliang Chai. "AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation". In ICDE, 2023. [[PDF]](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf)
 
-- Qingsong Guo, **Chao Zhang**, Shuxun Zhang, Jiaheng Lu. "Multi-model query languages: taming the variety of big data". In Distributed and Parallel Databases, 2023. [[Link]]([https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf](https://link.springer.com/article/10.1007/s10619-023-07433-1))
+- Qingsong Guo, **Chao Zhang**, Shuxun Zhang, Jiaheng Lu. "Multi-model query languages: taming the variety of big data". In Distributed and Parallel Databases, 2023. [[Link]](https://link.springer.com/article/10.1007/s10619-023-07433-1))
 
 - Guoliang Li, **Chao Zhang**. "HTAP Databases: What is New and What is Next". In SIGMOD, 2022.  [[PDF]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-tutorial-paper.pdf)  [[Slides]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-htap-slides.pdf)
 

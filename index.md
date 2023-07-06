@@ -47,7 +47,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 - **Chao Zhang**, Jiaheng Lu. "Parameter Curation and Data Generation for Benchmarking Multi-model Queries". In VLDB 2018@PhD. [[Open access]](https://helda.helsinki.fi//bitstream/handle/10138/298439/VLDB2018.pdf?sequence=1), [Short paper]
 
-  #### Patents
+#### Patents
 
 - **Chao Zhang**, Jiaheng Lu, Xiaochun Han, Xinyong Zhang. Database management system and method for graph view selection for a relational-graph database. [[US Patent US20230126509A1]]([https://www.vldb.org/pvldb/vol15/p3758-li.pdf](https://patents.google.com/patent/US20230126509A1/en)) 
 

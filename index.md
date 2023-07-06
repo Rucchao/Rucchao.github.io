@@ -49,7 +49,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 #### Patents
 
-- **Chao Zhang**, Jiaheng Lu, Xiaochun Han, Xinyong Zhang. Database management system and method for graph view selection for a relational-graph database. [[US Patent US20230126509A1]](https://patents.google.com/patent/US20230126509A1/en))
+- **Chao Zhang**, Jiaheng Lu, Xiaochun Han, Xinyong Zhang. Database management system and method for graph view selection for a relational-graph database. [[US Patent US20230126509A1]](https://patents.google.com/patent/US20230126509A1/en)
 
 #### Academic Services
 

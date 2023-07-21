@@ -26,7 +26,7 @@ My current research topic focuses on performance benchmarking and optimization f
 
 Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Databases", Ph.D. Thesis, May, 2021.[[Link]](http://urn.fi/URN:ISBN:978-951-51-7198-6)
 
-#### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[[DBLP]](https://dblp.uni-trier.de/pid/94/3019-34.html)
+#### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[[DBLP]](https://dblp.uni-trier.de/pid/94/3019-34.html) [*: Corresponding Author]
 
 - **Chao Zhang***, Guoliang Li, Jianhua Feng, Jintao Zhang. "Survey of Key Techniques of HTAP Databases". In Journal of Software, 2023, 34(2): 761-785. [[PDF]](https://www.jos.org.cn/josen/article/abstract/6713)
 

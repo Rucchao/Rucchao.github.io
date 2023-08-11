@@ -24,7 +24,7 @@ My current research topic focuses on performance benchmarking and optimization f
 
 #### Ph.D. Thesis
 
-Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Databases", Ph.D. Thesis, May, 2021.[[Link]](http://urn.fi/URN:ISBN:978-951-51-7198-6)
+Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Databases", Ph.D. Thesis, May, 2021.[[Link]](http://urn.fi/URN:ISBN:978-951-51-7198-6)[[News]](https://www.helsinki.fi/en/researchgroups/unified-database-management-systems-udbms/news/phd-candidate-chao-zhang-successfully-defended-his-thesis)
 
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[[DBLP]](https://dblp.uni-trier.de/pid/94/3019-34.html) [*: Corresponding Author]
 

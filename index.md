@@ -49,8 +49,6 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 - **Chao Zhang**, Jiaheng Lu, Pengfei Xu, and Yuxing Chen. "UniBench: A Benchmark for Multi-Model Database Management Systems" In TPCTC, 2018. [[Open access]](https://link.springer.com/chapter/10.1007/978-3-030-11404-6_2), [[Slides]](http://udbms.cs.helsinki.fi/assets/ubench/VLDB_TPCTC_Unibench.pdf), [Google citation 50+]
 
-- **Chao Zhang**, Jiaheng Lu. "Parameter Curation and Data Generation for Benchmarking Multi-model Queries". In VLDB 2018@PhD. [[Open access]](https://helda.helsinki.fi//bitstream/handle/10138/298439/VLDB2018.pdf?sequence=1), [Short paper]
-
 #### Academic Services
 
 PC member for the following conferences:

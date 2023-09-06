@@ -59,7 +59,7 @@ PC member for the following conferences:
 
 - IEEE ICDE 2023
 
-- DASFAA 2023
+- DASFAA (2024, 2023)
 
 - ADMA 2023
 

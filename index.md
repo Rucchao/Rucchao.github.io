@@ -8,8 +8,6 @@ My current research topic focuses on performance benchmarking and optimization f
 
 #### News
 
-**[2023.5.13]** I am honored to receive Huawei Huohua Award! Many thanks to Huawei's generous support!
-
 **[2023.3.6]** I am honored to be invited as a Program Committee member of VLDB 2023 Tutorial Track! [[Website]](https://vldb.org/2023/?call-for-tutorials)
 
 **[2023.2.17]** One research paper about learned cardinality estimation got accepted at ICDE 2023! Cheers!

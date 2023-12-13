@@ -26,7 +26,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[[DBLP]](https://dblp.uni-trier.de/pid/94/3019-34.html) [*: Corresponding Author]
 
-- Jintao Zhang, Guoliang Li, **Chao Zhang***, Chengliang Chai. "PACE: Poisoning Attacks on Learned Cardinality Estimation". In SIGMOD, 2024. [[To be appeared shortly.]]
+- Jintao Zhang, Guoliang Li, **Chao Zhang***, Chengliang Chai. "PACE: Poisoning Attacks on Learned Cardinality Estimation". In SIGMOD, 2024. [To be appeared]
 
 - **Chao Zhang**, Guoliang Li*, Jianhua Feng, Jintao Zhang. "Survey of Key Techniques of HTAP Databases". In Journal of Software, 2023, 34(2): 761-785. [[PDF]](https://www.jos.org.cn/josen/article/abstract/6713)
 

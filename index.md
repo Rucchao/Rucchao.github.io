@@ -38,11 +38,11 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 - Jintao Zhang, **Chao Zhang***, Guoliang Li, Chengliang Chai. "AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation". In ICDE, 2023. [[PDF]](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf)
 
-- Qingsong Guo, **Chao Zhang**, Shuxun Zhang, Jiaheng Lu. "Multi-model query languages: taming the variety of big data". In Distributed and Parallel Databases, 2023. [[Link]](https://link.springer.com/article/10.1007/s10619-023-07433-1))
+- Qingsong Guo, **Chao Zhang**, Shuxun Zhang, Jiaheng Lu*. "Multi-model query languages: taming the variety of big data". In Distributed and Parallel Databases, 2023. [[Link]](https://link.springer.com/article/10.1007/s10619-023-07433-1))
 
-- Guoliang Li, **Chao Zhang**. "HTAP Databases: What is New and What is Next". In SIGMOD, 2022.  [[PDF]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-tutorial-paper.pdf)  [[Slides]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-htap-slides.pdf)
+- Guoliang Li*, **Chao Zhang**. "HTAP Databases: What is New and What is Next". In SIGMOD, 2022.  [[PDF]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-tutorial-paper.pdf)  [[Slides]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-htap-slides.pdf)
 
-- Guoliang Li, Haowen Dong, **Chao Zhang**. "Cloud Databases: New Techniques, Challenges, and Opportunities". In VLDB, 2022. [[PDF]](https://www.vldb.org/pvldb/vol15/p3758-li.pdf)  [[Slides]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/tutorial-cloud-naitve-databases.pdf)
+- Guoliang Li*, Haowen Dong, **Chao Zhang**. "Cloud Databases: New Techniques, Challenges, and Opportunities". In VLDB, 2022. [[PDF]](https://www.vldb.org/pvldb/vol15/p3758-li.pdf)  [[Slides]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/tutorial-cloud-naitve-databases.pdf)
 
 - **Chao Zhang**, Jiaheng Lu*, Qingsong Guo, Xinyong Zhang, Xiaochun Han, Minqi Zhou. "Automatic View Selection in Graph Databases". In SSDBM, 2021.[[Extended Version]](https://arxiv.org/abs/2105.09160)[[ERA Rank: A]](http://direction.bordeaux.inria.fr/~roussel/rankings/era/index.cgi?q=SSDBM)
 

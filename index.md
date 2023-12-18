@@ -8,6 +8,8 @@ My current research topic focuses on performance benchmarking and optimization f
 
 #### News
 
+**[2024.12.18]** Two papers got accepted: one is a benchmark paper in VLDB 2024, the other one is learned cardinality estimation study in SIGMOD 2024. Cheers!
+
 **[2023.3.6]** I am honored to be invited as a Program Committee member of VLDB 2023 Tutorial Track! [[Website]](https://vldb.org/2023/?call-for-tutorials)
 
 **[2023.2.17]** One research paper about learned cardinality estimation got accepted at ICDE 2023! Cheers!
@@ -25,6 +27,8 @@ My current research topic focuses on performance benchmarking and optimization f
 Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Databases", Ph.D. Thesis, May, 2021.[[Link]](http://urn.fi/URN:ISBN:978-951-51-7198-6)[[News]](https://www.helsinki.fi/en/researchgroups/unified-database-management-systems-udbms/news/phd-candidate-chao-zhang-successfully-defended-his-thesis)
 
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[[DBLP]](https://dblp.uni-trier.de/pid/94/3019-34.html) [*: Corresponding Author]
+
+- **Chao Zhang**, Guoliang Li*, Lv Tao. "HyBench: A New Benchmark for HTAP Databases". In VLDB, 2024. [To be appeared]
 
 - Jintao Zhang, Guoliang Li, **Chao Zhang***, Chengliang Chai. "PACE: Poisoning Attacks on Learned Cardinality Estimation". In SIGMOD, 2024. [To be appeared]
 

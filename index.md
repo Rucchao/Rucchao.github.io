@@ -59,7 +59,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 PC member for the following conferences:
 
-- ACM SIGMOD 2024
+- ACM SIGMOD 2024-2025
 
 - VLDB 2023 (Tutorial)
 

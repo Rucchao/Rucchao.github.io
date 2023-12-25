@@ -8,6 +8,8 @@ My current research topic focuses on performance benchmarking and optimization f
 
 #### News
 
+**[2023.12.18]** I am honored to be invited as a Program Committee member of SIGMOD 2025!
+
 **[2023.12.18]** Two papers got accepted: one is a benchmark paper in VLDB 2024, the other one is learned cardinality estimation study in SIGMOD 2024. Cheers!
 
 **[2023.3.6]** I am honored to be invited as a Program Committee member of VLDB 2023 Tutorial Track! [[Website]](https://vldb.org/2023/?call-for-tutorials)

@@ -30,7 +30,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[[DBLP]](https://dblp.uni-trier.de/pid/94/3019-34.html) [*: Corresponding Author]
 
-- **Chao Zhang**, Guoliang Li*, Lv Tao. "HyBench: A New Benchmark for HTAP Databases". In VLDB, 2024. [To be appeared]
+- **Chao Zhang**, Guoliang Li*, Tao Lv. "HyBench: A New Benchmark for HTAP Databases". In VLDB, 2024. [To be appeared]
 
 - Jintao Zhang, Guoliang Li, **Chao Zhang***, Chengliang Chai. "PACE: Poisoning Attacks on Learned Cardinality Estimation". In SIGMOD, 2024. [To be appeared]
 

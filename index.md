@@ -28,6 +28,12 @@ My current research topic focuses on performance benchmarking and optimization f
 
 Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Databases", Ph.D. Thesis, May, 2021.[[Link]](http://urn.fi/URN:ISBN:978-951-51-7198-6)[[News]](https://www.helsinki.fi/en/researchgroups/unified-database-management-systems-udbms/news/phd-candidate-chao-zhang-successfully-defended-his-thesis)
 
+#### Awards
+
+2021, Huawei Spark Award
+
+2018, Finland Goverment CIMO Award
+
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[[DBLP]](https://dblp.uni-trier.de/pid/94/3019-34.html) [*: Corresponding Author]
 
 - **Chao Zhang**, Guoliang Li*, Tao Lv. "HyBench: A New Benchmark for HTAP Databases". In VLDB, 2024. [To be appeared]

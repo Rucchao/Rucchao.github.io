@@ -75,20 +75,5 @@ PC member for the following conferences:
 
 - DASFAA 2023-2024
 
-- ADMA 2023
-
-Reviewer for the following journals:
-
-- IEEE Transactions on Knowledge and Data Engineering (TKDE)
-
-- Journal of Computer Science and Technology (JCST)
-
-External reviewer for the following conferences:
-
-- VLDB Conference 2021
-- IEEE ICDE Conference (2017 2019 2020)
-- Australia Database Conference (ADC 2019)
-- ER Conference 2018
-
 #### Contact
 - cycchao@mail.tsinghua.edu.cn

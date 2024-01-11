@@ -32,7 +32,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 2021, Huawei Spark Award
 
-2018, Finland Goverment CIMO Award
+2018, Finland Government CIMO Award
 
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[[DBLP]](https://dblp.uni-trier.de/pid/94/3019-34.html) [*: Corresponding Author]
 

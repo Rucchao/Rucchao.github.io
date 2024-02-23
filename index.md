@@ -42,7 +42,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 - **Chao Zhang**, Guoliang Li*, Jianhua Feng, Jintao Zhang. "Survey of Key Techniques of HTAP Databases". In Journal of Software, 2023, 34(2): 761-785. [[PDF]](https://www.jos.org.cn/josen/article/abstract/6713)
 
-- **Chao Zhang**, Jiaheng Lu, Xiaochun Han, Xinyong Zhang. Database Management System and Method for Graph View Selection for A Relational-Graph Database: U.S. Patent Application 18/063,343[P]. 2023-4-27.
+- **Chao Zhang***, Jiaheng Lu, Xiaochun Han, Xinyong Zhang. Database Management System and Method for Graph View Selection for A Relational-Graph Database: U.S. Patent Application 18/063,343[P]. 2023-4-27.
 
 - Jintao Zhang, **Chao Zhang***, Guoliang Li, Chengliang Chai. "PACE: Poisoning Attacks on Learned Cardinality Estimation". In SIGMOD, 2024. [To be appeared]
 

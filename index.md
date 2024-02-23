@@ -38,7 +38,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 #### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[[DBLP]](https://dblp.uni-trier.de/pid/94/3019-34.html) [*: Corresponding Author]
 
-- **Chao Zhang**, Guoliang Li*, Tao Lv. "HyBench: A New Benchmark for HTAP Databases". In VLDB, 2024. [To be appeared]
+- **Chao Zhang**, Guoliang Li*, Tao Lv. "HyBench: A New Benchmark for HTAP Databases". In VLDB, 2024. [[PDF]](https://vldb.org/pvldb/volumes/17/paper/HyBench%3A%20A%20New%20Benchmark%20for%20HTAP%20Databases)
 
 - Jintao Zhang, Guoliang Li, **Chao Zhang***, Chengliang Chai. "PACE: Poisoning Attacks on Learned Cardinality Estimation". In SIGMOD, 2024. [To be appeared]
 
@@ -61,7 +61,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 - **Chao Zhang**, Jiaheng Lu*. "Holistic Evaluation in Multi-Model Databases Benchmarking". In Distributed and Parallel Databases, 2019.
 [[Journal paper]](https://link.springer.com/article/10.1007/s10619-019-07279-6) [[ERA Rank: A]](http://direction.bordeaux.inria.fr/~roussel/rankings/era/index.cgi?q=Distributed+and+Parallel+Databases)
 
-- **Chao Zhang**, Jiaheng Lu*, Pengfei Xu, and Yuxing Chen. "UniBench: A Benchmark for Multi-Model Database Management Systems" In TPCTC, 2018. [[Open access]](https://link.springer.com/chapter/10.1007/978-3-030-11404-6_2), [[Slides]](http://udbms.cs.helsinki.fi/assets/ubench/VLDB_TPCTC_Unibench.pdf), [Google citation 60+]
+- **Chao Zhang**, Jiaheng Lu*, Pengfei Xu, and Yuxing Chen. "UniBench: A Benchmark for Multi-Model Database Management Systems" In TPCTC, 2018. [[Open access]](https://link.springer.com/chapter/10.1007/978-3-030-11404-6_2), [[Slides]](http://udbms.cs.helsinki.fi/assets/ubench/VLDB_TPCTC_Unibench.pdf), [Google citation 70+]
 
 #### Academic Services
 

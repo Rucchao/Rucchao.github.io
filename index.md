@@ -36,7 +36,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
   National Graduated Student Award (2014)
 
-#### Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[[DBLP]](https://dblp.uni-trier.de/pid/94/3019-34.html) [*: Corresponding Author]
+#### Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[[DBLP]](https://dblp.uni-trier.de/pid/94/3019-34.html) [*: Corresponding Author]
 
 - **Chao Zhang**, Guoliang Li*, Tao Lv. "HyBench: A New Benchmark for HTAP Databases". In VLDB, 2024. [[PDF]](https://vldb.org/pvldb/volumes/17/paper/HyBench%3A%20A%20New%20Benchmark%20for%20HTAP%20Databases)
 
@@ -48,13 +48,9 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 - Jintao Zhang, **Chao Zhang***, Guoliang Li, Chengliang Chai. "AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation". In ICDE, 2023. [[PDF]](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf)
 
-- Qingsong Guo, **Chao Zhang**, Shuxun Zhang, Jiaheng Lu*. "Multi-Model Query Languages: Taming the Variety of Big Data". In Distributed and Parallel Databases, 2023. [[Link]](https://link.springer.com/article/10.1007/s10619-023-07433-1))
-
 - Guoliang Li*, **Chao Zhang**. "HTAP Databases: What is New and What is Next". In SIGMOD, 2022.  [[PDF]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-tutorial-paper.pdf)  [[Slides]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-htap-slides.pdf)
 
 - Guoliang Li*, Haowen Dong, **Chao Zhang**. "Cloud Databases: New Techniques, Challenges, and Opportunities". In VLDB, 2022. [[PDF]](https://www.vldb.org/pvldb/vol15/p3758-li.pdf)  [[Slides]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/tutorial-cloud-naitve-databases.pdf)
-
-- **Chao Zhang**, Jiaheng Lu*, Qingsong Guo, Xinyong Zhang, Xiaochun Han, Minqi Zhou. "Automatic View Selection in Graph Databases". In SSDBM, 2021.[[Extended Version]](https://arxiv.org/abs/2105.09160)[[ERA Rank: A]](http://direction.bordeaux.inria.fr/~roussel/rankings/era/index.cgi?q=SSDBM)
 
 - **Chao Zhang**, Jiaheng Lu*. "Selectivity Estimation for Relation-Tree Joins". In SSDBM, 2020. [Research long paper] [[Link]](https://dl.acm.org/doi/10.1145/3400903.3400921) [[ERA Rank: A]](http://direction.bordeaux.inria.fr/~roussel/rankings/era/index.cgi?q=SSDBM)
 

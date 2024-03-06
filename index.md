@@ -50,6 +50,8 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 - Guoliang Li*, **Chao Zhang**. "HTAP Databases: What is New and What is Next". In SIGMOD, 2022.  [[PDF]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-tutorial-paper.pdf)  [[Slides]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-htap-slides.pdf)
 
+- Haowen Dong, **Chao Zhang**, Guoliang Li*. "Survey on Cloud-native Databases". In Journal of Software, 2024, 35(2): 899-926.  [[PDF]]([http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-tutorial-paper.pdf](https://www.jos.org.cn/jos/article/pdf/6952)) 
+
 - Guoliang Li*, Haowen Dong, **Chao Zhang**. "Cloud Databases: New Techniques, Challenges, and Opportunities". In VLDB, 2022. [[PDF]](https://www.vldb.org/pvldb/vol15/p3758-li.pdf)  [[Slides]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/tutorial-cloud-naitve-databases.pdf)
 
 - **Chao Zhang**, Jiaheng Lu*. "Selectivity Estimation for Relation-Tree Joins". In SSDBM, 2020. [Research long paper] [[Link]](https://dl.acm.org/doi/10.1145/3400903.3400921) [[ERA Rank: A]](http://direction.bordeaux.inria.fr/~roussel/rankings/era/index.cgi?q=SSDBM)

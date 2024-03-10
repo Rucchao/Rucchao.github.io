@@ -47,9 +47,9 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 - **Chao Zhang**, Jiaheng Lu*. "Selectivity Estimation for Relation-Tree Joins". In SSDBM, 2020:1-12. [[Link]](https://dl.acm.org/doi/10.1145/3400903.3400921)
 
 - **Chao Zhang**, Jiaheng Lu*. "Holistic Evaluation in Multi-Model Databases Benchmarking". In Distributed and Parallel Databases, 2019.
-[[Journal paper]](https://link.springer.com/article/10.1007/s10619-019-07279-6)
+[[PDF]](https://link.springer.com/article/10.1007/s10619-019-07279-6)
 
-- **Chao Zhang**, Jiaheng Lu*, Pengfei Xu, and Yuxing Chen. "UniBench: A Benchmark for Multi-Model Database Management Systems" In TPCTC, 2018. [[Open access]](https://link.springer.com/chapter/10.1007/978-3-030-11404-6_2), [[Slides]](http://udbms.cs.helsinki.fi/assets/ubench/VLDB_TPCTC_Unibench.pdf)[[Code]](https://github.com/HY-UDBMS/UniBench)
+- **Chao Zhang**, Jiaheng Lu*, Pengfei Xu, and Yuxing Chen. "UniBench: A Benchmark for Multi-Model Database Management Systems" In TPCTC, 2018. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-11404-6_2) [[Slides]](http://udbms.cs.helsinki.fi/assets/ubench/VLDB_TPCTC_Unibench.pdf)[[Code]](https://github.com/HY-UDBMS/UniBench)
 
 - Jintao Zhang, **Chao Zhang***, Guoliang Li, Chengliang Chai. "PACE: Poisoning Attacks on Learned Cardinality Estimation". In SIGMOD, 2024. [To be appeared]
 

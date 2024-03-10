@@ -38,18 +38,18 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 #### Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[*: Corresponding Author]
 
-- **Chao Zhang**, Guoliang Li*, Tao Lv. "HyBench: A New Benchmark for HTAP Databases". In VLDB, 2024. [[PDF]](https://vldb.org/pvldb/volumes/17/paper/HyBench%3A%20A%20New%20Benchmark%20for%20HTAP%20Databases)
+- **Chao Zhang**, Guoliang Li*, Tao Lv. "HyBench: A New Benchmark for HTAP Databases". In VLDB, 2024. [[PDF]](https://vldb.org/pvldb/volumes/17/paper/HyBench%3A%20A%20New%20Benchmark%20for%20HTAP%20Databases)[[Code]]([https://vldb.org/pvldb/volumes/17/paper/HyBench%3A%20A%20New%20Benchmark%20for%20HTAP%20Databases](https://github.com/Rucchao/HyBench-2023/tree/master))
 
 - **Chao Zhang**, Guoliang Li*, Jianhua Feng, Jintao Zhang. "Survey of Key Techniques of HTAP Databases". In Journal of Software, 2023, 34(2): 761-785. [[PDF]](https://www.jos.org.cn/josen/article/abstract/6713)
 
-- **Chao Zhang***, Jiaheng Lu, Xiaochun Han, Xinyong Zhang. Database Management System and Method for Graph View Selection for A Relational-Graph Database: U.S. Patent Application 18/063,343[P]. 2023-4-27.
+- **Chao Zhang***, Jiaheng Lu, Xiaochun Han, Xinyong Zhang. Database Management System and Method for Graph View Selection for A Relational-Graph Database: U.S. Patent Application 18/063,343[P]. 2023-4-27.[[Patent]](https://patents.google.com/patent/US20230126509A1/en)
 
 - **Chao Zhang**, Jiaheng Lu*. "Selectivity Estimation for Relation-Tree Joins". In SSDBM, 2020:1-12. [[Link]](https://dl.acm.org/doi/10.1145/3400903.3400921)
 
 - **Chao Zhang**, Jiaheng Lu*. "Holistic Evaluation in Multi-Model Databases Benchmarking". In Distributed and Parallel Databases, 2019.
 [[Journal paper]](https://link.springer.com/article/10.1007/s10619-019-07279-6)
 
-- **Chao Zhang**, Jiaheng Lu*, Pengfei Xu, and Yuxing Chen. "UniBench: A Benchmark for Multi-Model Database Management Systems" In TPCTC, 2018. [[Open access]](https://link.springer.com/chapter/10.1007/978-3-030-11404-6_2), [[Slides]](http://udbms.cs.helsinki.fi/assets/ubench/VLDB_TPCTC_Unibench.pdf)
+- **Chao Zhang**, Jiaheng Lu*, Pengfei Xu, and Yuxing Chen. "UniBench: A Benchmark for Multi-Model Database Management Systems" In TPCTC, 2018. [[Open access]](https://link.springer.com/chapter/10.1007/978-3-030-11404-6_2), [[Slides]](http://udbms.cs.helsinki.fi/assets/ubench/VLDB_TPCTC_Unibench.pdf)[[Code]](https://github.com/HY-UDBMS/UniBench)
 
 - Jintao Zhang, **Chao Zhang***, Guoliang Li, Chengliang Chai. "PACE: Poisoning Attacks on Learned Cardinality Estimation". In SIGMOD, 2024. [To be appeared]
 

@@ -8,6 +8,8 @@ My current research topic focuses on performance benchmarking and optimization f
 
 #### News
 
+**[2024.4.18]** I serve as a PC member for VLDB 2024 Tutorial Track.
+
 **[2024.4.13]** Our HTAP survey has been accepted to TKDE 2024! Cheers!
 
 **[2023.12.25]** I am honored to be invited as a Program Committee member of SIGMOD 2025!
@@ -65,7 +67,7 @@ PC member for the following conferences:
 
 - ACM SIGMOD 2024-2025
 
-- VLDB 2023 (Tutorial)
+- VLDB 2023-2024 (Tutorial)
 
 - IEEE ICDE 2023
 

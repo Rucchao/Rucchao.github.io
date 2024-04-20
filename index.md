@@ -42,7 +42,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 #### Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[*: Corresponding Author]
 
-- **Chao Zhang**, Guoliang Li*, et al. HTAP Databases: A Survey[J]. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.
+- **Chao Zhang**, Guoliang Li*, et al. "HTAP Databases: A Survey". IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. [[Link]](https://ieeexplore.ieee.org/document/10505815)
 
 - **Chao Zhang**, Guoliang Li*, Tao Lv. "HyBench: A New Benchmark for HTAP Databases". In VLDB, 2024. [[PDF]](https://vldb.org/pvldb/volumes/17/paper/HyBench%3A%20A%20New%20Benchmark%20for%20HTAP%20Databases)[[Code]](https://github.com/Rucchao/HyBench-2023/tree/master)
 

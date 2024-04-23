@@ -4,7 +4,7 @@ I am a post-doctoral researcher working with Prof. [Guoliang Li](http://dbgroup.
 
 I was awarded the Ph.D. degree in Computer Science, at University of Helsinki, Finland at June, 2021. I am very honored to have Prof. [Jiaheng Lu](https://www.cs.helsinki.fi/u/jilu/) as my Ph.D. supervisor. He is the leader of [UDBMS group](https://www.helsinki.fi/en/researchgroups/unified-database-management-systems-udbms). Prior to joining UH, I spent a wonderful year at School of Information, Renmin University of China (RUC) for Ph.D. studies.
 
-My current research topic focuses on performance benchmarking and optimization for cutting-edge data systems including AI-Enabled DBMSs, Cloud-Native Databases, and Big Data Systems.
+My current research topic focuses on performance benchmarking and optimization for cutting-edge data systems including HTAP databases, AI-Enhanced DBMSs, Cloud-Native Databases, and Big Data Systems.
 
 #### News
 

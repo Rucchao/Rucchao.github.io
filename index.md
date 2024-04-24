@@ -10,7 +10,7 @@ My current research topic focuses on performance benchmarking and optimization f
 
 **[2024.4.18]** I serve as a PC member for VLDB 2024 Tutorial Track.
 
-**[2024.4.13]** Our HTAP survey has been accepted to TKDE 2024! Cheers!
+**[2024.4.13]** Our [HTAP survey](https://arxiv.org/submit/5555461/view) has been accepted to TKDE 2024! Cheers!
 
 **[2023.12.25]** I am honored to be invited as a Program Committee member of SIGMOD 2025!
 
@@ -42,7 +42,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 #### Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[*: Corresponding Author]
 
-- **Chao Zhang**, Guoliang Li*, Jintao Zhang, Xinning Zhang, Jianhua Feng. "HTAP Databases: A Survey". IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. [[Link]](https://ieeexplore.ieee.org/document/10505815)
+- **Chao Zhang**, Guoliang Li*, Jintao Zhang, Xinning Zhang, Jianhua Feng. "HTAP Databases: A Survey". IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. [[Link]](https://ieeexplore.ieee.org/document/10505815)[[PrePrint]](https://arxiv.org/submit/5555461/view)
 
 - **Chao Zhang**, Guoliang Li*, Tao Lv. "HyBench: A New Benchmark for HTAP Databases". In VLDB, 2024. [[PDF]](https://vldb.org/pvldb/volumes/17/paper/HyBench%3A%20A%20New%20Benchmark%20for%20HTAP%20Databases)[[Code]](https://github.com/Rucchao/HyBench-2023/tree/master)
 

@@ -38,6 +38,8 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
   Finland International Student Award (2018)
 
+  Chinese Government Scholarship (2016)
+
   National Graduated Student Award (2014)
 
 #### Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=6BsNnDQAAAAJ&hl=en)[*: Corresponding Author]

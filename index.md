@@ -62,7 +62,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 - Jintao Zhang, **Chao Zhang***, Guoliang Li, Chengliang Chai. "AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation". In ICDE, 2023. [[PDF]](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf)
 
 - Haowen Dong, **Chao Zhang***, Guoliang Li, Huanchen Zhang. "Cloud-Native Databases: A Survey".  IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. [[Link]](https://ieeexplore.ieee.org/abstract/document/10574374)
-- 
+
 - Guoliang Li*, **Chao Zhang**. "HTAP Databases: What is New and What is Next". In SIGMOD, 2022.  [[PDF]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-tutorial-paper.pdf)  [[Slides]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod22-htap-slides.pdf)
 
 - Guoliang Li*, Haowen Dong, **Chao Zhang**. "Cloud Databases: New Techniques, Challenges, and Opportunities". In VLDB, 2022. [[Slides]](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/tutorial-cloud-naitve-databases.pdf)

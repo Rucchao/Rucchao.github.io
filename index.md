@@ -8,7 +8,7 @@ My current research topic focuses on performance benchmarking and optimization f
 
 #### News
 
-**[2024.7.5]** Our Survey Paper on [Cloud-Native Database](https://ieeexplore.ieee.org/abstract/document/10574374) has been accepted to TKDE 2024! Cheers!
+**[2024.7.5]** Our survey paper on [Cloud-Native Databases](https://ieeexplore.ieee.org/abstract/document/10574374) has been accepted to TKDE 2024! Cheers!
 
 **[2024.4.18]** I serve as a PC member for VLDB 2024 Tutorial Track.
 

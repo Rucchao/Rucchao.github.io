@@ -69,7 +69,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 #### Academic Services
 
-PC member for the following conferences:
+PC member for the following conferences/journals:
 
 - ACM SIGMOD 2024-2025
 
@@ -78,6 +78,12 @@ PC member for the following conferences:
 - IEEE ICDE 2023
 
 - DASFAA 2023-2024
+
+Reviewer for the following journals:
+
+- TKDE 2023-2024
+
+- VLDB Journal 2024
 
 #### Contact
 - cycchao@mail.tsinghua.edu.cn

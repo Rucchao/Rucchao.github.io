@@ -69,7 +69,7 @@ Chao Zhang, "Performance Benchmarking and Query Optimization for Multi-Model Dat
 
 #### Academic Services
 
-PC member for the following conferences/journals:
+PC member for the following conferences:
 
 - ACM SIGMOD 2024-2025
 

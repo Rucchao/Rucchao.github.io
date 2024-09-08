@@ -9,7 +9,6 @@
 locale                   : "en-US"
 title                    : "Chao Zhang's Homepage"
 title_separator          : "-"
-sitemap: false
 name                     : &name "Chao Zhang"
 description              : &description "Assistant Professor@RUC"
 url                      : https://rucchao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -21,8 +20,6 @@ words_per_minute         : 60
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
-gems:
-  - jekyll-sitemap
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -264,14 +261,12 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji

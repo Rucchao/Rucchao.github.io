@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-#### Short bio
+Short bio
 
 I will join Renmin University of China ([School of Information](http://info.ruc.edu.cn/Home/index.htm), [CSRanking's TOP-3 in Mainland China's DB Researches](https://csrankings.org/#/fromyear/2022/toyear/2024/index?mod&cn)) as an Assistant Professor.
 
@@ -15,7 +15,7 @@ I was a post-doctoral researcher working with Prof. [Guoliang Li](http://dbgroup
 
 My current research topic focuses on performance benchmarking and optimization for cutting-edge data systems including HTAP databases, AI-Enhanced DBMSs, Cloud-Native Databases, and Big Data Systems.
 
-#### News
+News
 
 **[2024.7.5]** Our survey paper on [Cloud-Native Databases](https://ieeexplore.ieee.org/abstract/document/10574374) has been accepted to TKDE 2024! Cheers!
 

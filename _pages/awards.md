@@ -8,19 +8,7 @@ author_profile: true
 
 Honors and Awards
 ------
-2021 ACM SIGMOD China Doctoral Dissertation Award
 
-2021 Best Ph.D Thesis of Tsinghua CS
-
-2021 Outstanding Graduate of Beijing
-
-2020 National Scholarship
-
-2020 Innovative Future Scholarship of Tsinghua CS
-
-2019 VMware Scholarship Award
-
-2019 Best Paper Award of ***DASFAA 2019*** 
 
 <!-- 24. [Rising Star](https://mp.weixin.qq.com/s/Lecza9L8zgZYDPdKpkP2XA) (云帆奖-明日之星), World AI Conference, 2022.
 23. 🏆 [Best Student Paper Award](https://www2022.thewebconf.org/awards/) of ***WWW 2022*** (1/1822, the second WWW Best Student Paper from China), 2022

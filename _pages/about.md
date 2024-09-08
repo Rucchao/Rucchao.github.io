@@ -7,145 +7,37 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Haitao Yuan (袁海涛 in Chinese) is currently a research fellow working with Prof. [Gao Cong](https://personal.ntu.edu.sg/gaocong/) at [College of Computing and Data Science, NTU](https://www.ntu.edu.sg/computing). Prior to that,  he received his Ph.D. degree in computer science from [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) and Prof. [Ling Feng](https://dblp.org/pid/58/4464.html). Furthermore, Haitao is fortunate to enjoy a close academic collaboration with Prof. [Zhifeng Bao](https://baozhifeng.net/). 
+#### Short bio
 
-<!-- Besides, Haitao has accumulated for 1.5-year industrial experience in the Intelligent Driving Group of [Baidu](http://home.baidu.com/index.html) and the Digital Research Institute of [ENN](https://www.enn.cn/pageshow?pageId=1440505892360679424).  -->
+I will join Renmin University of China ([School of Information](http://info.ruc.edu.cn/Home/index.htm), [CSRanking's TOP-3 in Mainland China's DB Researches](https://csrankings.org/#/fromyear/2022/toyear/2024/index?mod&cn)) as an Assistant Professor.
 
-Haitao's research focuses on developing innovative database technologies that can effectively and efficiently utilize Big Data (e.g., tabular, text, image, and spatio-temporal data) and AI Models (e.g., LLM, GNN, and RL) to benefit people in areas such as transportation, healthcare, education, and more. To achieve this goal, Haitao concentrates on three key research areas (**SIR**): 
-+ Building **S**calable multi-modal data management and retrirval systems
-+ Creating **I**ntelligent data manipulation and preparation pipelines
-+ Developing **R**obust data prediction models and decision strategies for real-world applications
+I was a post-doctoral researcher working with Prof. [Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) at Database group, Tsinghua University. I was awarded the Ph.D. degree in Computer Science, at University of Helsinki, Finland. I am very honored to have Prof. [Jiaheng Lu](https://www.cs.helsinki.fi/u/jilu/) as my Ph.D. supervisor. He is the leader of [UDBMS group](https://www.helsinki.fi/en/researchgroups/unified-database-management-systems-udbms). Prior to joining UH, I spent a wonderful year at School of Information, Renmin University of China (RUC) for Ph.D. studies.
 
-He has published 30+ papers in the top DB/DM conferences and journals (SIGMOD, VLDB, ICDE, WWW, TKDE, CIKM, etc).
+My current research topic focuses on performance benchmarking and optimization for cutting-edge data systems including HTAP databases, AI-Enhanced DBMSs, Cloud-Native Databases, and Big Data Systems.
 
-Feel free to catch me if interested to discuss ideas or work together. 😜
+#### News
 
-<!-- Wentao Zhang (张文涛) is a fourth year Ph.D. candidate at [PKU](https://www.pku.edu.cn/), now working with [Prof. Bin Cui](http://net.pku.edu.cn/~cuibin/).
-He previously interned in [HKUST](https://hkust.edu.hk/?cn=1) working with Prof. Lei Chen, [Tencent](https://github.com/Angel-ML/angel) working with the Angel team, and [Apple Research](https://machinelearning.apple.com/) working with Meng Cao, Ping Huang and Danny Bickson. -->
+**[2024.7.5]** Our survey paper on [Cloud-Native Databases](https://ieeexplore.ieee.org/abstract/document/10574374) has been accepted to TKDE 2024! Cheers!
 
-**Email**: yhaitao45@163.com / haitao.yuan@ntu.edu.sg
+**[2024.4.18]** I serve as a PC member for VLDB 2024 Tutorial Track.
 
-<!-- **[Wechat (微信)](https://yuanhaitao.github.io/wechat/)**: 769513564 -->
+**[2024.4.13]** Our [HTAP survey](https://www.researchgate.net/publication/379956111_HTAP_Databases_A_Survey) has been accepted to TKDE 2024! Cheers!
 
-**Office**: N4 #B3a-02, 50 Nanyang Avenue, Singapore 639798.
+**[2023.12.25]** I am honored to be invited as a Program Committee member of SIGMOD 2025!
 
-<!-- **<font color=red>I’m on job market now!</font>**
+**[2023.12.18]** Two papers got accepted: one is an HTAP benchmark paper in VLDB 2024, the other one is learned cardinality estimation study in SIGMOD 2024. Cheers!
 
-<!-- I am looking for the following positions:
-- Faculty (Assistant Professor) in Academic
-- Research Scientist in Industry -->
+**[2023.3.6]** I am honored to be invited as a Program Committee member of VLDB 2023 Tutorial Track! [[Website]](https://vldb.org/2023/?call-for-tutorials)
 
-<!-- **<font color=red>If you are interested in me, contact me via Email or Wechat.</font>** -->
+**[2023.2.17]** One research paper about learned cardinality estimation got accepted at ICDE 2023! Cheers!
 
-Research Interests
----
-<!-- + **Data-centric ML**: annotation, augmentation, imbalance, noise, distillation, out-of-distribution, heterogeneity, and privacy. -->
+**[2022.11.9]** I am honored to be invited as a Program Committee member of SIGMOD 2024! [[Website]](https://2024.sigmod.org/index.shtml)
 
-+ **Spatio-temporal Data Preparation and Management (S&I)**: trajectory search and join, trajectory generation, road network generation, traffic imputation.
-+ **AI-powered Database Optimization (S)**: materialized view advisor, query rewrite, index advisor.
-+ **Interdisciplinary Application (I&R)**: AI4Transportation (e.g., travel time estimation, traffic prediction), AI4Science (e.g., medical diagnosis) and AI4Education (e.g., mathematical exercise solver, knowledge tracing).
-+ **Retrival-augmented Generation(S&I)**: multi-modal RAG, vector database.
+**[2022.8.21]** We will give a new tutorial at VLDB 2022! The title is "Cloud Databases: New Techniques, Challenges, and Opportunities". See you at VLDB 2022! [[Website]](https://vldb.org/2022/?program-schedule-tutorials)
 
+**[2022.4.18]** I am honored to be invited as a Program Committee member of ICDE 2023! [[Website]](https://icde2023.ics.uci.edu/research-program-committee/)
 
-
-**<font color=red>What's New</font>**
-------
-* **2024-08**: One research paper is accepted by ***PVLDB 2025***.
-* **2024-07**: Two research papers are accepted by ***CIKM 2024***.
-* **2024-06**: Three papers ([[SIGMOD](https://scholar.google.com/citations?hl=en&vq=eng_databasesinformationsystems&view_op=list_hcore&venue=u1CjH9_75_cJ.2024)] and [[ICDE](https://scholar.google.com/citations?hl=en&vq=eng_databasesinformationsystems&view_op=list_hcore&venue=HdCtgB7kxZAJ.2024)]) are selected into 2024 Highly-Cited List (2019-2023).
-<!-- * **2024-03**: One research paper is accepted by ***DASFAA 2024***. -->
-* **2024-03**: One research paper is accepted by ***ICDE 2024***.
-<!-- * **2024-03**: One research paper is accepted by ***TOIS***. -->
-<!-- * **2024-02**: One research paper is accepted by ***PVLDB 2024***. -->
-<!-- * **2023-12**: One research paper is accepted by ***ICDE 2024***.-->
-<!-- * **2023-08**: One DIA paper is accepted by ***SIGMOD 2024***. -->
-<!-- * **2023-07**: One coauthor research paper is accepted by ***IEEE TMC***. -->
-<!-- * **2023-07**: One invited paper is accepted by ***ACM TURC2023***. -->
-<!-- * **2023-07**: One research paper is accepted by ***VLDB 2023***.  -->
-<!-- * **2023-04**: One coauthor paper is accepted by ***EuroMLSys 2023***. -->
-<!-- * **2023-03**: Haitao comes to Singapore, and starts his research career at SCALE@NTU. -->
-<!-- * **2023-01**: One paper is accepted by ***WWW 2023***.-->
-<!-- * **2022-12**: One coauthor paper is accepted by ***VLDB 2023***. -->
-<!-- * **2022-11**: One paper is accepted by ***VLDB 2023***. -->
-
-  
-<!-- Work Experience
-------
-
-* 2023/03-: Research Fellow
-  * SCALE, NTU
-  * Research on spatial and temporal data management and mining
-  * Principal Investigator: [Gao Cong](https://personal.ntu.edu.sg/gaocong/)
-
-* 2022/09-2023/02: Researcher
-  * Digital Research Institute, ENN
-  * Research on spatio-temporal data mining in industrial scenarios
-
-
-* 2021/07-2022/08: Senior Algorithm Engineer
-  * BaiduMap, IDG, Baidu
-  * Participate in travel time estimation
-  * Supervisor: [Jizhou Huang](http://ir.hit.edu.cn/~huangjizhou/)
-
-* 2020/10-2021/04: Research Intern
-  * AI Lab, Didi Chuxing
-  * Research on traffic prediction and intelligent transportation
-
-* 2018/07-2019/01: Research Intern
-  * Computing Platform Group, Alibaba
-  * Assist in solving query optimization problem in ODPS auto data warehouse
-  * Supervisor: [Kai Zeng](https://kai-zeng.github.io/) -->
-
-
-Selected Awards
-------
-* 2021 ACM SIGMOD China Doctoral Dissertation Award
-* 2021 Best Ph.D Thesis of Tsinghua CS
-* 2021 Outstanding Graduate of Beijing
-* 2020 National Scholarship
-* 2020 Innovative Future Scholarship of Tsinghua CS
-* 2019 VMware Scholarship Award
-* 2019 Best Paper Award of DASFAA2019
-
-<!-- 24. [Rising Star](https://mp.weixin.qq.com/s/Lecza9L8zgZYDPdKpkP2XA) (云帆奖-明日之星), World AI Conference, 2022.
-23. 🏆 [Best Student Paper Award](https://www2022.thewebconf.org/awards/) of ***WWW 2022*** **(1/1822,  the second WWW Best Student Paper from China)**, 2022
-22. [IVADO Postdoctoral Fellowship](https://ivado.ca/en/research-community/), Canada
-21. [Outstanding Doctoral Dissertation Award](https://grs.pku.edu.cn/xwgz11/xxgk11/xwsy111/364670.htm), Peking University  **(Sole winner in Computer Software and Theory)**, 2022
-19. [Outstanding Graduate of Beijing](https://xgb.pku.edu.cn/docs/2022-06/20220606163325764115.pdf), China, 2022
-17. Candidate of [May 4th Medal](https://mp.weixin.qq.com/s/AbqR2yFyduYn2PcZYbhXww) **(Each School recommends 1 candidate, highest honor in PKU)**, 2022
-16. [The Big Data Expo Leading Technology Achievement Award](https://mp.weixin.qq.com/s/TlNywcR4pCl1c84KLTpeNA), China International Big Data Industry Expo (Angel Graph project), 2022
-15. Candidate of [People of the Year](https://mp.weixin.qq.com/s/zEcwHYsjqLhTsCDTnS-fsA) **(1 people in EECS, and 42 people in PKU)**, 2021
-14. [Merit Student of Beijing](https://xgb.pku.edu.cn/sylm/133002.htm) **(2 people in EECS, and 58 people in PKU)**, 2021
-13. [Apple PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2021) **(1 people in China, and 15 people in the world)**, 2021
-11. National Scholarship **(Top 1% in PKU)**, 2019, 2021
-8. [Baidu Scholarship Nominee](http://scholarship.baidu.com/) **(20 people in the world)**, 2021 -->
-  
-<!-- Selected Competitions
-------
-1. Outstanding Winner of the [openGCC contest](https://mp.weixin.qq.com/s/8JX5ymkUt5MvDcHLOjB3Xw) in CCF ChinaSoft **(1/3814)**, 2021
-1. Rank \#1 in [Open Graph Benchmark](https://ogb.stanford.edu/docs/leader_nodeprop/\#ogbn-mag), 2021
-1. Outstanding Winner of the BDIC Big Data Competition **(1/575)**, 2018 -->
-
-Program Committee Member and Reviewer
-------
-KDD, ICDE, CIKM, WWWJ etc.
-  
-Invited Talks
-------
-I am happy to give a talk if you are interested in my work. 😊  
-
-- Nuhuo: An Effective Estimation Model for Traffic Speed Histogram Imputation on A Road Network. PVLDB'24, 2024. 08 [[Slides](https://drive.google.com/file/d/1XiT5aIBW5tBQKSB6KAiAXMAzMha95y80/view?usp=drive_link)]  <br> 
-
-
-- Route Travel Time Estimation on A Road Network Revisited:
-Heterogeneity, Proximity, Periodicity and Dynamicity. PVLDB'23, 2023. 09 [[Slides](https://drive.google.com/file/d/1ofSEwEhsBGwEbys2KRbc8pFL8Cb_Tk6R/view?usp=drive_link)]  <br> 
-
-- Automatic Road Extraction with Multi-Source Data Revisited: Completeness, Smoothness and Discrimination. PVLDB'23, 2023. 09 [[Slides](https://drive.google.com/file/d/14iY0yNe9IWmyHzydNGTPxV43LfSon-e4/view?usp=drive_link)]  <br> 
-
-- Deep Learnig for ETA Application on Baidu Map. Beijing University of Posts and Telecommunications. 2022. 05. <br>
-
-- Big Spatio-temporal Trajectory Data Management and Mining (In Chinese). Renmin University of China, 2022. 01 <br>
-
+**[2022.3.10]** We will give a new tutorial at SIGMOD 2022! The title is "HTAP Databases: What is New and What is Next". See you at SIGMOD 2022! [[Website]](https://2022.sigmod.org/sigmod_tutorials.shtml)
 
 <!-- 1. Model Degradation Hinders Deep Graph Neural Networks.<br>
   KDD'22, 2022. 08 <br>

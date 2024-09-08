@@ -9,6 +9,7 @@
 locale                   : "en-US"
 title                    : "Chao Zhang's Homepage"
 title_separator          : "-"
+sitemap: false
 name                     : &name "Chao Zhang"
 description              : &description "Assistant Professor@RUC"
 url                      : https://rucchao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

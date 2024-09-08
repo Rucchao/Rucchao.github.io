@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chao Zhang"
   avatar           : "yht-2.jpeg"
-  bio              : "Research Fellow@NTU"
+  bio              : "Assistant Professor@RUC"
   location         : "RUC, Beijing"
   employer         :
   pubmed           :
   googlescholar    : https://scholar.google.com/citations?user=xXeSMZQAAAAJ&hl=en
-  email            : yhaitao45@163.com
+  email            : cycchao6535@163.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : "100005526647293"
   foursquare       :
-  github           : "yuanhaitao"
+  github           : "rucchao"
   google_plus      :
   keybase          :
   instagram        :

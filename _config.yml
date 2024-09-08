@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Chao Zhang"
-  avatar           : "yht-2.jpeg"
+  avatar           : "img_personal_.jpg"
   bio              : "Assistant Professor@RUC"
   location         : "RUC, Beijing"
   employer         :
   pubmed           :
-  googlescholar    : https://scholar.google.com/citations?user=xXeSMZQAAAAJ&hl=en
+  googlescholar    : https://scholar.google.com/citations?hl=zh-CN&user=6BsNnDQAAAAJ
   email            : cycchao6535@163.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

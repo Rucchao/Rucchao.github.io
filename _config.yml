@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haitao Yuan's Homepage"
+title                    : "Chao Zhang's Homepage"
 title_separator          : "-"
-name                     : &name "Haitao Yuan"
-description              : &description "Research Fellow@NTU"
-url                      : https://yuanhaitao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Chao Zhang"
+description              : &description "Assistant Professor@RUC"
+url                      : https://rucchao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yuanhaitao.github.io"
+repository               : "rucchao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 60

@@ -10,7 +10,7 @@ redirect_from:
 
 I will join Renmin University of China ([School of Information](http://info.ruc.edu.cn/Home/index.htm), [CSRanking's TOP-3 in Mainland China's DB Researches](https://csrankings.org/#/fromyear/2022/toyear/2024/index?mod&cn)) as an Assistant Professor.
 
-I was a post-doctoral researcher working with Prof. [Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) at Database group, Tsinghua University. I was awarded the Ph.D. degree in Computer Science, at University of Helsinki, Finland. I am very honored to have Prof. [Jiaheng Lu](https://www.cs.helsinki.fi/u/jilu/) as my Ph.D. supervisor. Prior to joining UH, I spent one year at School of Information, Renmin University of China (RUC) for Ph.D. studies.
+I did my postdoc with Prof. [Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) at Database group, Tsinghua University. I was awarded the Ph.D. degree in Computer Science, at University of Helsinki, Finland. I am very honored to have Prof. [Jiaheng Lu](https://www.cs.helsinki.fi/u/jilu/) as my Ph.D. supervisor. Prior to joining UH, I spent one year at School of Information, Renmin University of China (RUC) for Ph.D. studies.
 
 My current research topic focuses on performance benchmarking and optimization for cutting-edge data systems including HTAP databases, AI-Enhanced DBMSs, Cloud-Native Databases, and Big Data Systems.
 

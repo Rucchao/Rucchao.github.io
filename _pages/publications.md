@@ -10,7 +10,7 @@ author_profile: true
 
 2024
 ====
-[**CCF-A** (PVLDB)]**Zhang, Chao**, Guoliang Li, and Tao Lv. "HyBench: A New Benchmark for HTAP Databases." Proceedings of the VLDB Endowment 17.5 (2024): 939-951. 
+[**CCF-A** (PVLDB)] **Zhang, Chao**, Guoliang Li, and Tao Lv. "HyBench: A New Benchmark for HTAP Databases." Proceedings of the VLDB Endowment 17.5 (2024): 939-951. 
 
 [**CCF-A** (TKDE)] **Zhang, Chao**, Guoliang Li, et al. "HTAP Databases: A Survey." IEEE Transactions on Knowledge and Data Engineering (2024).
 

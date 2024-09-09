@@ -6,8 +6,6 @@ author_profile: true
 ---
 {% include base_path %}
 
-<sup>#</sup> indicates corresponding author, <sup>*</sup> indicates equal contribution.
-
 2024
 ====
 [**CCF-A** (PVLDB)] **Zhang, Chao**, Guoliang Li, and Tao Lv. "HyBench: A New Benchmark for HTAP Databases." Proceedings of the VLDB Endowment 17.5 (2024): 939-951. 

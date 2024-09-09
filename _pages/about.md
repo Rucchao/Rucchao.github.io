@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Bio
----
-
 I will join Renmin University of China ([School of Information](http://info.ruc.edu.cn/Home/index.htm), [CSRanking's TOP-3 in Mainland China's DB Researches](https://csrankings.org/#/fromyear/2022/toyear/2024/index?mod&cn)) as an Assistant Professor.
 
 I was a post-doctoral researcher working with Prof. [Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) at Database group, Tsinghua University. I was awarded the Ph.D. degree in Computer Science, at University of Helsinki, Finland. I am very honored to have Prof. [Jiaheng Lu](https://www.cs.helsinki.fi/u/jilu/) as my Ph.D. supervisor. He is the leader of [UDBMS group](https://www.helsinki.fi/en/researchgroups/unified-database-management-systems-udbms). Prior to joining UH, I spent a wonderful year at School of Information, Renmin University of China (RUC) for Ph.D. studies.

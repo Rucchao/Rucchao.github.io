@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Students"
-permalink: /Students/
+permalink: /cfps/
 author_profile: true
 ---
 

@@ -9,3 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
+**1. Tencent Rhino Bird Project**
+
+**2. Huawei Huyanglin Challenging Project**

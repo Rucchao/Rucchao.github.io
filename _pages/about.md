@@ -17,6 +17,25 @@ I was a post-doctoral researcher working with Prof. [Guoliang Li](http://dbgroup
 
 My current research topic focuses on performance benchmarking and optimization for cutting-edge data systems including HTAP databases, AI-Enhanced DBMSs, Cloud-Native Databases, and Big Data Systems.
 
+Academic Services
+---
+
+PC member for the following conferences:
+
+- ACM SIGMOD 2024-2025
+
+- VLDB 2023-2024 (Tutorial)
+
+- IEEE ICDE 2023
+
+- DASFAA 2023-2024
+
+Reviewer for the following journals:
+
+- TKDE 2023-2024
+
+- VLDB Journal 2024
+
 News
 ---
 

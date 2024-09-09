@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CFPs"
+title: "Students"
 permalink: /cfps/
 author_profile: true
 ---

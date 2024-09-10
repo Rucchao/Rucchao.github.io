@@ -10,7 +10,7 @@ author_profile: true
 ====
 [**CCF-A** (PVLDB)] **Chao Zhang**, Guoliang Li, and Tao Lv. "HyBench: A New Benchmark for HTAP Databases." Proceedings of the VLDB Endowment 17.5 (2024): 939-951. [[PDF]](https://www.vldb.org/pvldb/vol17/p939-zhang.pdf) [[Code]](https://github.com/Rucchao/HyBench-2023) [[Slides]](https://rucchao.github.io/files/HyBench_Slides.pdf)
 
-[**CCF-A** (TKDE)] **Chao Zhang**, Guoliang Li, et al. "HTAP Databases: A Survey." IEEE Transactions on Knowledge and Data Engineering (2024).
+[**CCF-A** (TKDE)] **Chao Zhang**, Guoliang Li, et al. "HTAP Databases: A Survey." IEEE Transactions on Knowledge and Data Engineering (2024).  [[Slides]](https://rucchao.github.io/files/sigmod22-htap-slides_compressed.pdf)
 
 [**CCF-A** (SIGMOD)] Jintao Zhang, **Chao Zhang**, Guoliang Li, et al. "PACE: Poisoning Attacks on Learned Cardinality Estimation." Proceedings of the ACM on Management of Data 2.1 (2024): 1-27.
 

@@ -7,7 +7,7 @@ author_profile: true
 
 It is a pleased journey to work with the following students:
 
-- Jintao Zhang (Tsinghua University)
+- [Jintao Zhang](https://jt-zhang.github.io) (Tsinghua University)
 
 - Zhaokun Zhang (Tsinghua University)
 

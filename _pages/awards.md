@@ -9,6 +9,8 @@ author_profile: true
 Honors and Awards
 ------
 
+Renmin Yulan Gift Funding (2024)
+
 Huawei Spark Award (2023)
 
 Finland International Student Award (2018)

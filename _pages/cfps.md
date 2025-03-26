@@ -18,3 +18,5 @@ It is a pleased journey to work with the following students:
 - Leyao Liu (Imperial College London)
 
 - Songyue Zhang (Renmin University of China)
+
+- Yan Zhou (Renmin University of China)

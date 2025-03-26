@@ -20,3 +20,7 @@ It is a pleased journey to work with the following students:
 - Songyue Zhang (Renmin University of China)
 
 - Yan Zhou (Renmin University of China)
+
+- Quehuan Liu (Renmin University of China)
+
+- Yidong Zhang (Renmin University of China)

@@ -35,6 +35,7 @@ Reviewer for the following journals:
 
 News
 ---
+**[2025.3.26]** Our paper on Cloud-Native Database Benchmarking  has been accepted to ICDE 2025! Cheers!
 
 **[2024.9.12]** I have joined Renmin Univeristy of China as an Assistant Professor! Cheers!
 

@@ -10,6 +10,8 @@ author_profile: true
 ====
 [**CCF-A** (ICDE)] **Chao Zhang**, Guoliang Li, Leyao Liu, Tao Lv, Ju Fan. "CloudyBench: A Testbed for A Comprehensive Evaluation of Cloud-Native Databases." 2025 IEEE 41th International Conference on Data Engineering (ICDE). IEEE, 2025.
 
+[**CCF-A** (VLDB Revison)] Yan Zhou, Chunwei Liu, Bhuvan Urgaonkar, Zhengle Wang, Magnus Mueller, **Chao Zhang**, Songyue Zhang, Pascal Pfeil, Dominik Horn, Zhengchun Liu, Davide Pagano, Tim Kraska, Samuel Madden, Ju Fan. "PBench: Workload Synthesizer with Real Statistics for Cloud Analytics Benchmarking. PVLDB, 18(1): XXX-XXX, 2025".
+
 2024
 ====
 [**CCF-A** (PVLDB)] **Chao Zhang**, Guoliang Li, and Tao Lv. "HyBench: A New Benchmark for HTAP Databases." Proceedings of the VLDB Endowment 17.5 (2024): 939-951. [[PDF]](https://www.vldb.org/pvldb/vol17/p939-zhang.pdf) [[Code]](https://github.com/Rucchao/HyBench-2023) [[Slides]](https://rucchao.github.io/files/HyBench_Slides.pdf)

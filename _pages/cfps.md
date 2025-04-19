@@ -5,6 +5,8 @@ permalink: /cfps/
 author_profile: true
 ---
 
+I have 1 slot for a M.Eng student in 2025.
+
 It is a pleased journey to work with the following students:
 
 - Yidong Zhang (Renmin University of China，Co-advice with Prof. [Hong Chen](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/418462431bfb4a8280359068cb470e88.htm))

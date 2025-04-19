@@ -12,7 +12,7 @@ I am an Assistant Professor at Renmin University of China ([School of Informatio
 
 I did my postdoc with Prof. [Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) at Database group, Tsinghua University. I was awarded the Ph.D. degree in Computer Science, at University of Helsinki, Finland. I am very honored to have Prof. [Jiaheng Lu](https://www.cs.helsinki.fi/u/jilu/) as my Ph.D. supervisor. Prior to joining UH, I spent one year at School of Information, Renmin University of China (RUC) for Ph.D. studies, [Here](https://mp.weixin.qq.com/s?__biz=Mzk0NzE2OTU4Nw==&mid=2247505995&idx=1&sn=5017031e94a862d8dde15412b648ee5a&chksm=c2ea84dcd020a875a0794608a5854a684c6d5b22b3694621f1cbceeaf546e18f7ba75d789c5e&scene=27) is a recent interview about me.
 
-My current research topic focuses on performance benchmarking and optimization for cutting-edge data systems including HTAP databases, AI-Enhanced DBMSs, Cloud-Native Databases, and Big Data Systems.
+My current research topic focuses on performance benchmarking and optimization for cutting-edge data systems including HTAP databases, AI-Enhanced DBMSs, Cloud-Native Databases, and Big Data Systems. Please find more details in my selected [publications](https://rucchao.github.io//publications/).
 
 Academic Services
 ---

@@ -7,20 +7,12 @@ author_profile: true
 
 It is a pleased journey to work with the following students:
 
-- [Jintao Zhang](https://jt-zhang.github.io) (Tsinghua University)
+- Yan Zhou (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
 
-- Zhaokun Zhang (Tsinghua University)
+- Quehuan Liu (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
 
-- Haowen Dong (Tsinghua University)
-  
-- Xinning Zhang (Tsinghua University)
+- Yidong Zhang (Renmin University of China，Co-advice with Prof. [Hong Chen](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/418462431bfb4a8280359068cb470e88.htm))
 
-- Leyao Liu (Imperial College London)
+- Xiang Zhang (Incoming, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
 
-- Songyue Zhang (Renmin University of China)
-
-- Yan Zhou (Renmin University of China)
-
-- Quehuan Liu (Renmin University of China)
-
-- Yidong Zhang (Renmin University of China)
+- Leyao Liu (Incoming, Imperial College London)

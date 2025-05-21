@@ -9,6 +9,8 @@ author_profile: true
 Honors and Awards
 ------
 
+ICDE Best Paper Runner-Up Award (2025)
+
 Renmin Yulan Gift Funding (2024)
 
 Huawei Spark Award (2023)

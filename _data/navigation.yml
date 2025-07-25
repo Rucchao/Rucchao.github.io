@@ -18,8 +18,8 @@ main:
   - title: "Students"
     url: /cfps/
     
-#   - title: "CV"
-#     url: /cv/
+  - title: "Patents"
+  url: /talks/
 
 #   - title: "Album"
 #     url: /portfolio/

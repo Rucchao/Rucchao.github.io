@@ -9,8 +9,8 @@ main:
   - title: "Projects"
     url: /projects/    
     
-  # - title: "Invited Talks"
-  #   url: /talks/   
+  - title: "Patents"
+    url: /talks/   
     
   - title: "Awards"
     url: /awards/    
@@ -18,8 +18,8 @@ main:
   - title: "Students"
     url: /cfps/
     
-  - title: "Patents"
-  url: /talks/
+  #- title: "Patents"
+  #url: /talks/
 
 #   - title: "Album"
 #     url: /portfolio/

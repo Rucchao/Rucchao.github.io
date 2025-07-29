@@ -35,7 +35,7 @@ Reviewer for the following journals:
 
 News
 ---
-**[2025.7.29]** I am promoted to an Associated Professor! Cheers!
+**[2025.7.29]** I have been promoted to an Associated Professor! Cheers!
 
 **[2025.6.23]** Our paper on Cloud Analytical Benchmarking has been accepted to VLDB 2025! Cheers!
 

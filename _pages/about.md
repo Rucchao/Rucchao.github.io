@@ -35,6 +35,8 @@ Reviewer for the following journals:
 
 News
 ---
+**[2025.7.29]** I am promoted to an Associated Professor! Cheers!
+
 **[2025.6.23]** Our paper on Cloud Analytical Benchmarking has been accepted to VLDB 2025! Cheers!
 
 **[2025.5.9]** Our paper on Cloud-Native Database Benchmarking  has been selected as **ICDE 2025 Best Paper Runner-Up Award**! It is our great honor and see you at HK!

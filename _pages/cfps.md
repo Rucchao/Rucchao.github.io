@@ -19,6 +19,6 @@ It is a pleased journey to work with the following students:
 
 - Leyao Liu (Incoming, Imperial College London)
 
-Gratuated students:
+Graduated students:
 
 - Yan Zhou (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/), National Civil Servant)

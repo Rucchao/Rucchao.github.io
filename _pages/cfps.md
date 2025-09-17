@@ -13,6 +13,8 @@ It is a pleased journey to work with the following students:
 
 - Quehuan Liu (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
 
-- Xiang Zhang (Incoming, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
+- Xiang Zhang (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
+
+- Yaoen Wu (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
 
 - Leyao Liu (Incoming, Imperial College London)

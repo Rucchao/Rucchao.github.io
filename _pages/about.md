@@ -25,7 +25,7 @@ PC member for the following conferences:
 
 - IEEE ICDE 2023
 
-- DASFAA 2023-2025
+- DASFAA 2023-2026
 
 Reviewer for the following journals:
 

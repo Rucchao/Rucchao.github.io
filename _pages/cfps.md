@@ -15,7 +15,11 @@ It is a pleased journey to work with the following students:
 
 - Yaoen Wu (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
 
+- Shuyi Fu (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
+
 - Jinyang Feng (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
+
+- Jian Qian (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
 
 - Leyao Liu (Incoming, Imperial College London)
 

@@ -8,7 +8,7 @@ author_profile: true
 
 2025
 ====
-[**Preprints**] **Chao Zhang**, Shaolei Zhang, Quehuan Liu, Sibei Chen, Tong Li, Ju Fan. "TAIJI: MCP-based Multi-Modal Data Analytics on Data Lakes." [Archive](https://arxiv.org/abs/2505.11270), 2025.
+[IEEE Data Engineering Bulletin] **Chao Zhang**, Shaolei Zhang, Quehuan Liu, Sibei Chen, Tong Li, Ju Fan. "TAIJI: MCP-based Multi-Modal Data Analytics on Data Lakes." [Archive](https://arxiv.org/abs/2505.11270), 2025.
 
 [**CCF-A** (ICDE)] **Chao Zhang**, Guoliang Li, Leyao Liu, Tao Lv, Ju Fan. "CloudyBench: A Testbed for A Comprehensive Evaluation of Cloud-Native Databases." 2025 IEEE 41th International Conference on Data Engineering (ICDE). IEEE, 2025. <span style="color:blue"> [Best Paper Runner-Up Award]</span>.
 

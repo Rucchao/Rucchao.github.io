@@ -21,13 +21,13 @@ It is a pleased journey to work with the following students:
 
 - Qian Jian (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
 
-- Bofei Zhang (Renmin University of China)
+- Bofei Zhang (Renmin University of China, Undergraduated 2022)
 
-- Yongning Ren (Renmin University of China)
+- Yongning Ren (Renmin University of China, Undergraduated 2022)
 
-- Zhengkun Wu (Renmin University of China)
+- Zhengkun Wu (Renmin University of China, Undergraduated 2023)
 
-- Zihan Zhou (Renmin University of China)
+- Zihan Zhou (Renmin University of China, Undergraduated 2022)
 
 Graduated students:
 

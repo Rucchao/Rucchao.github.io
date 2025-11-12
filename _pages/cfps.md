@@ -25,6 +25,10 @@ It is a pleased journey to work with the following students:
 
 - Yongning Ren (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
 
+- Zhengkun Wu (Renmin University of China)
+
+- Zihan Zhou (Renmin University of China)
+
 Graduated students:
 
 - Yan Zhou (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/), National Civil Servant)

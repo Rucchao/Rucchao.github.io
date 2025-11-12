@@ -27,7 +27,7 @@ It is a pleased journey to work with the following students:
 
 - Zhengkun Wu (Renmin University of China, Undergraduated 2023)
 
-- Zihan Zhou (Renmin University of China, Undergraduated 2022)
+- Zihan Zhou (Renmin University of China, Undergraduated 2023)
 
 Graduated students:
 

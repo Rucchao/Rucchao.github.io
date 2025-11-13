@@ -31,4 +31,4 @@ It is a pleased journey to work with the following students:
 
 Graduated students:
 
-- Yan Zhou (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/), National Civil Servant [VLDB 2026](https://www.vldb.org/pvldb/vol18/p3883-fan.pdf))
+- Yan Zhou (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/), National Civil Servant [VLDB 2025](https://www.vldb.org/pvldb/vol18/p3883-fan.pdf))

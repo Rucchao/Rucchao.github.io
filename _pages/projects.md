@@ -19,7 +19,7 @@ This project aims to optimize cloud-native HTAP query performance.
 This project aims to leverage LLM to automate the benchmarking of database systems.
 
 
-**3. CCF-Tencent Rhino Bird Project** [PI][On-going]
+**3. CCF-Tencent Rhino Bird Project** [PI][Completed]
 ------
 This project aims to optimize HTAP performance with a hybrid storage of row store and column store.
 

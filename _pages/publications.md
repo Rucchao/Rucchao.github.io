@@ -6,6 +6,11 @@ author_profile: true
 ---
 {% include base_path %}
 
+2026
+====
+[**CCF-A** (PVLDB)] Zhenghao Ding, Xinyi Zhang, **Chao Zhang**, et al. "Breaking the Isolation-Freshness Trade-off: Joint Adaptive Storage Optimization for HTAP Systems". PVLDB, 2025
+
+
 2025
 ====
 [**IEEE Data Engineering Bulletin**] **Chao Zhang**, Shaolei Zhang, Quehuan Liu, Sibei Chen, Tong Li, Ju Fan. "TAIJI: MCP-based Multi-Modal Data Analytics on Data Lakes." [Archive](https://arxiv.org/abs/2505.11270), 2025.

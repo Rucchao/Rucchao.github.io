@@ -8,7 +8,7 @@ author_profile: true
 
 2026
 ====
-[**CCF-A** (PVLDB)] Zhenghao Ding, Xinyi Zhang, **Chao Zhang**, et al. "Breaking the Isolation-Freshness Trade-off: Joint Adaptive Storage Optimization for HTAP Systems". PVLDB, 2025
+[**CCF-A** (PVLDB)] Zhenghao Ding, Xinyi Zhang, **Chao Zhang**, et al. "Breaking the Isolation-Freshness Trade-off: Joint Adaptive Storage Optimization for HTAP Systems". PVLDB, 2026.
 
 
 2025

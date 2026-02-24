@@ -35,6 +35,9 @@ Reviewer for the following journals:
 
 News
 ---
+
+**[2026.2.24]** Two Papers have been accepted to SIGMOD 2026 and ICDE 2026, one is about HTAP optimization and the other one is about vector database benchmarking! Cheers!
+
 **[2026.1.16]** One Paper about HTAP Storage Optimization has been accepted to VLDB 2026! Cheers!
 
 **[2025.7.29]** I have been promoted to an Associated Professor! Cheers!

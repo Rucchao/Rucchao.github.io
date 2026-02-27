@@ -8,7 +8,7 @@ author_profile: true
 
 2026
 ====
-[**CCF-A** (SIGMOD)] Xiang Zhang, **Chao Zhang**, et al. "VecBench: A Controllable Benchmark for Filtered Vector Search". SIGMOD, 2026. [See Our Leaderboard](http://www.x-bench.xin/)
+[**CCF-A** (SIGMOD)] Xiang Zhang, **Chao Zhang**, et al. "VecBench: A Controllable Benchmark for Filtered Vector Search". SIGMOD, 2026. ([See Our Leaderboard](http://www.x-bench.xin/))
 
 [**CCF-A** (ICDE)] Yidong Zhang, **Chao Zhang**, et al. "Telescope: A Learned What-If Call for Column Store Selection in HTAP Databases". ICDE, 2026.
 

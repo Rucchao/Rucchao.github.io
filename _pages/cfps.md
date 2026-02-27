@@ -7,11 +7,11 @@ author_profile: true
 
 It is a pleased journey to work with the following students:
 
-- Yidong Zhang (Renmin University of China，Co-advice with Prof. [Hong Chen](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/418462431bfb4a8280359068cb470e88.htm))
+- Yidong Zhang (Renmin University of China，Co-advice with Prof. [Hong Chen](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/418462431bfb4a8280359068cb470e88.htm), Achievement: ICDE 2026)
 
 - Quehuan Liu (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
 
-- Xiang Zhang (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
+- Xiang Zhang (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/), Achievement: SIGMOD 2026)
 
 - Yaoen Wu (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
 

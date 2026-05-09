@@ -13,13 +13,13 @@ It is a pleased journey to work with the following students:
 
 - Xiang Zhang (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/), Achievement: SIGMOD 2026)
 
-- Yaoen Wu (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
-
 - Shuyi Fu (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
 
 - Jinyang Feng (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
 
 - Qian Jian (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
+
+- Yaoen Wu (Renmin University of China, bachelor's degree from Nanjing University)
 
 - Yongning Ren (Renmin University of China, Undergraduated Grade 2022)
 

@@ -23,7 +23,7 @@ PC member for the following conferences:
 
 - VLDB 2023-2024 (Tutorial)
 
-- IEEE ICDE 2023
+- IEEE ICDE 2023，2027
 
 - DASFAA 2023-2026
 

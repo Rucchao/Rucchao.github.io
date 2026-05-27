@@ -29,7 +29,7 @@ PC member for the following conferences:
 
 Reviewer for the following journals:
 
-- TKDE 2023-2024
+- TKDE 2023-2024, 2026
 
 - VLDB Journal 2024
 

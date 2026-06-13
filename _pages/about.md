@@ -36,6 +36,8 @@ Reviewer for the following journals:
 News
 ---
 
+**[2026.6.13]** One Paper about Cloud Workload Scheduling has been accepted to SIGMOD 2027! Cheers!
+
 **[2026.6.3]** One Paper about HTAP Optimization has been accepted to TKDE 2026! Cheers!
 
 **[2026.2.24]** Two Papers have been accepted to SIGMOD 2026 and ICDE 2026, one is about HTAP optimization and the other one is about vector database benchmarking! Cheers!

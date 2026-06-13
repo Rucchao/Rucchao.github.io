@@ -6,6 +6,10 @@ author_profile: true
 ---
 {% include base_path %}
 
+2027
+====
+[**CCF-A** (SIGMOD)] Wenbo Li, Haoqiong Bian, **Chao Zhang**, Guoliang Li. EASE: Resource-Aware Query Scheduling across Heterogeneous Cloud Compute Services. SIGMOD, 2027.
+
 2026
 ====
 [**CCF-A** (SIGMOD)] Xiang Zhang, **Chao Zhang**, et al. "VecBench: A Controllable Benchmark for Filtered Vector Search". SIGMOD, 2026. ([See Our Leaderboard](http://www.x-bench.xin/))

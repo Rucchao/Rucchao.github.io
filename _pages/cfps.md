@@ -13,8 +13,6 @@ It is a pleased journey to work with the following students:
 
 - Xiang Zhang (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/), Achievement: SIGMOD 2026)
 
-- Shuyi Fu (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
-
 - Jinyang Feng (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
 
 - Qian Jian (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
@@ -32,3 +30,5 @@ Graduated students:
 - Yan Zhou (Renmin University of China, Employment: National Civil Servant in Beijing, Achievement: [VLDB 2025](https://www.vldb.org/pvldb/vol18/p3883-fan.pdf))
 
 - Leyao Liu (Beijing Institute of Technology, Employment: Thought Machine in London, Achievement: [ICDE 2025](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/ICDE25-CloudyBench.pdf))
+
+- Shuyi Fu (Renmin University of China, Employment: China Merchants Bank, Achievement: SQLBench)

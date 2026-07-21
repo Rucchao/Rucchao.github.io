@@ -7,15 +7,9 @@ author_profile: true
 
 It is a pleased journey to work with the following students:
 
-- Yidong Zhang (Renmin University of China，Co-advice with Prof. [Hong Chen](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/418462431bfb4a8280359068cb470e88.htm), Achievement: ICDE 2026)
+- Yidong Zhang (PhD 2024，Co-advice with Prof. [Hong Chen](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/418462431bfb4a8280359068cb470e88.htm), Achievement: ICDE 2026)
 
-- Quehuan Liu (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/),Achievement: IEEE Data Engineering Bulletin)
-
-- Xiang Zhang (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/), Achievement: SIGMOD 2026)
-
-- Jinyang Feng (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
-
-- Qian Jian (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
+- Han Li (PhD 2026，bachelor's degree from Hong Kong Baptist University)
 
 - Yaoen Wu (Renmin University of China, bachelor's degree from Nanjing University)
 

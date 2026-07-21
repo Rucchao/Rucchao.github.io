@@ -19,7 +19,9 @@ It is a pleased journey to work with the following students:
 
 - Yaoen Wu (Renmin University of China, bachelor's degree from Nanjing University)
 
-- Yongning Ren (Renmin University of China, Undergraduated Grade 2022)
+- Yongning Ren (Renmin University of China, bachelor's degree from RUC)
+
+- Yuxuan Zhang (Renmin University of China, bachelor's degree from BIT)
 
 - Zhengkun Wu (Renmin University of China, Undergraduated Grade 2023)
 

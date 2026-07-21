@@ -11,7 +11,7 @@ It is a pleased journey to work with the following students:
 
 - Han Li (PhD 2026，Co-advice with Prof. [Yunpeng Chai](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/06f9baa19a6b43a9897c773886be5702.htm), bachelor's degree from Hong Kong Baptist University)
 
-- Yaoen Wu (Renmin University of China, bachelor's degree from Nanjing University)
+- Yaoen Wu (Master 2025, Renmin University of China, bachelor's degree from Nanjing University)
 
 - Yongning Ren (Renmin University of China, bachelor's degree from RUC)
 

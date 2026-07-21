@@ -9,7 +9,7 @@ It is a pleased journey to work with the following students:
 
 - Yidong Zhang (PhD 2024，Co-advice with Prof. [Hong Chen](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/418462431bfb4a8280359068cb470e88.htm), Achievement: ICDE 2026)
 
-- Han Li (PhD 2026，bachelor's degree from Hong Kong Baptist University)
+- Han Li (PhD 2026，Co-advice with Prof. [Yunpeng Chai](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/06f9baa19a6b43a9897c773886be5702.htm), bachelor's degree from Hong Kong Baptist University)
 
 - Yaoen Wu (Renmin University of China, bachelor's degree from Nanjing University)
 

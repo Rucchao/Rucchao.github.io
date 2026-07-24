@@ -13,11 +13,11 @@ It is a pleased journey to work with the following students:
 
 - Han Li (PhD 2026, Co-advice with Prof. [Yunpeng Chai](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/06f9baa19a6b43a9897c773886be5702.htm), bachelor's degree from Hong Kong Baptist University)
 
-- Quehuan Liu (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/),Achievement: IEEE Data Engineering Bulletin)
+- Quehuan Liu (Master 2024, Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/),Achievement: IEEE Data Engineering Bulletin)
 
-- Jinyang Feng (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
+- Jinyang Feng (Master 2025, Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
 
-- Qian Jian (Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
+- Qian Jian (Master 2025, Renmin University of China, Co-advice with Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/))
 
 - Yaoen Wu (Master 2025, Renmin University of China, bachelor's degree from Nanjing University)
 

@@ -17,6 +17,8 @@ My current research topic focuses on performance benchmarking and optimization f
 Academic Services
 ---
 
+- [IEEE ICDE 2027 Proceeding Chairs](https://icde2027.github.io/officers.html)
+
 PC member for the following conferences:
 
 - ACM SIGMOD 2024-2025
